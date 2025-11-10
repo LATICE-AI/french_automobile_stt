@@ -1,0 +1,5 @@
+# Environment variables
+.env
+
+# Google Cloud credentials
+googlecloud.json

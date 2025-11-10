@@ -1,0 +1,3939 @@
+{
+  "data": [
+    {
+      "audio_path": "Audio/1d10f4a7-9fc6-4ab0-840c-8feb1dedac32_raw.wav",
+      "text": "Bonjour, c'est Marie Lafont, je voulais confirmer notre rendez-vous.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "0_raw",
+      "duration": 3.648,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/1d10f4a7-9fc6-4ab0-840c-8feb1dedac32_aug.wav",
+      "text": "Bonjour, c'est Marie Lafont, je voulais confirmer notre rendez-vous.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "0_aug",
+      "duration": 2.4322916666666665,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/31cb965c-21ef-4f59-9b6a-e2d232d8d67e_raw.wav",
+      "text": "Mamadou Diarra ici, pourriez-vous me rappeler au sujet du devis?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "1_raw",
+      "duration": 3.864,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/887440a4-554b-4978-bc4d-062608818bf6_raw.wav",
+      "text": "Oui, c'est Chantal Deschamps, je vous laisse mon numéro : 06 12 34 56 78.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "2_raw",
+      "duration": 9.264,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d3f27233-3ee6-4802-bc6d-03c4bfc8427e_raw.wav",
+      "text": "Allô, Serge Leclerc à l'appareil, pour la révision.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "3_raw",
+      "duration": 3.696,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d3f27233-3ee6-4802-bc6d-03c4bfc8427e_aug.wav",
+      "text": "Allô, Serge Leclerc à l'appareil, pour la révision.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "3_aug",
+      "duration": 3.041125,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/bf01178b-dc8d-4e40-bc3c-36f241609c44_raw.wav",
+      "text": "C'est Inès Haddad, vous pouvez me joindre au 07 98 76 54 32.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "4_raw",
+      "duration": 7.104,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/bf01178b-dc8d-4e40-bc3c-36f241609c44_aug.wav",
+      "text": "C'est Inès Haddad, vous pouvez me joindre au 07 98 76 54 32.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "4_aug",
+      "duration": 5.06625,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/6cfdcfd0-24c6-49c8-9aae-31965b8cbad9_raw.wav",
+      "text": "Salut, c'est Djamila Belkacem, j'ai une question sur mon rendez-vous de lundi.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "5_raw",
+      "duration": 3.888,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/3037e3a2-763f-4866-9449-89e921c710b3_raw.wav",
+      "text": "Bonjour, je suis Arnaud Dubois, pouvez-vous m'envoyer le devis par email?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "6_raw",
+      "duration": 3.912,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/3037e3a2-763f-4866-9449-89e921c710b3_aug.wav",
+      "text": "Bonjour, je suis Arnaud Dubois, pouvez-vous m'envoyer le devis par email?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "6_aug",
+      "duration": 2.94575,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/54a5b2de-1f0d-48ff-bb87-c592a291d691_raw.wav",
+      "text": "Zoé Lemaire, juste vérifier que l'intervention est bien confirmée.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "7_raw",
+      "duration": 3.408,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d6d297e2-d911-4698-9e85-cdad87cfd5d2_raw.wav",
+      "text": "Allô, ici Karim Touati, je préfère qu'on me contacte par mail.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "8_raw",
+      "duration": 4.944,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d6d297e2-d911-4698-9e85-cdad87cfd5d2_aug.wav",
+      "text": "Allô, ici Karim Touati, je préfère qu'on me contacte par mail.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "8_aug",
+      "duration": 3.3677916666666667,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/b05d3ff9-d42a-4e1e-83c8-0d2a12a1b068_raw.wav",
+      "text": "C'est Yannick Nzamba, j'avais laissé un message hier concernant une réparation.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "9_raw",
+      "duration": 4.968,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/b05d3ff9-d42a-4e1e-83c8-0d2a12a1b068_aug.wav",
+      "text": "C'est Yannick Nzamba, j'avais laissé un message hier concernant une réparation.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "9_aug",
+      "duration": 3.2380833333333334,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/05fa528d-5b52-4acb-ac17-abdbd40b7706_raw.wav",
+      "text": "Bonjour, c'est Julie Lebrun, pourrais-je avoir une confirmation par sms?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "10_raw",
+      "duration": 4.584,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/05fa528d-5b52-4acb-ac17-abdbd40b7706_aug.wav",
+      "text": "Bonjour, c'est Julie Lebrun, pourrais-je avoir une confirmation par sms?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "10_aug",
+      "duration": 4.0675,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/27dbdd0c-bd58-4c79-8555-a6d6e7836513_raw.wav",
+      "text": "Sophie Anglade ici, mon adresse est sophie.anglade@gmail.com pour le devis.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "11_raw",
+      "duration": 5.976,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/4df8e4cc-a893-46a7-80b7-98dab7b2a938_raw.wav",
+      "text": "Amadou Coulibaly, j'ai besoin de déplacer mon rendez-vous.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "12_raw",
+      "duration": 3.264,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/4df8e4cc-a893-46a7-80b7-98dab7b2a938_aug.wav",
+      "text": "Amadou Coulibaly, j'ai besoin de déplacer mon rendez-vous.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "12_aug",
+      "duration": 2.7355416666666668,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/1eca6c62-e105-4851-9800-9b71f3289789_raw.wav",
+      "text": "Salut, c'est Claire Petit, est-ce que ma voiture sera prête demain?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "13_raw",
+      "duration": 3.456,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/58608364-df86-4d70-9ac4-31b0140001d1_raw.wav",
+      "text": "Bonjour, Pablo Fernandez à l'appareil, je n'ai pas reçu le devis encore.",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "14_raw",
+      "duration": 4.584,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/6de41e7b-5914-42d8-9f34-aaf57ea09c14_raw.wav",
+      "text": "Ici Naïma Boutaleb, peux-tu vérifier mes coordonnées dans votre système?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "15_raw",
+      "duration": 3.792,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/6de41e7b-5914-42d8-9f34-aaf57ea09c14_aug.wav",
+      "text": "Ici Naïma Boutaleb, peux-tu vérifier mes coordonnées dans votre système?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "15_aug",
+      "duration": 2.536375,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/bd68b75f-4ad9-4b66-b540-c1ec37d236e8_raw.wav",
+      "text": "Oui, Théo Martin, est-ce que je peux passer cet après-midi?",
+      "speaker": "client",
+      "call_id": "caebf628-522d-4ede-ae39-3cb3134e984f",
+      "chunk_id": "16_raw",
+      "duration": 3.528,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/a62fea71-2c67-4e12-a890-428427476a22_raw.wav",
+      "text": "Bonjour, c'est Ahmed Ben Youssef, je voulais savoir si ma voiture est prête.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "0_raw",
+      "duration": 3.696,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/c66e5a8f-16db-4536-818f-c8202ade9df6_raw.wav",
+      "text": "Oui, bonjour, ici Marie Dupont, j'avais rendez-vous demain pour un entretien.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "1_raw",
+      "duration": 3.744,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/c66e5a8f-16db-4536-818f-c8202ade9df6_aug.wav",
+      "text": "Oui, bonjour, ici Marie Dupont, j'avais rendez-vous demain pour un entretien.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "1_aug",
+      "duration": 2.513625,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d9931c52-203b-4408-b916-2191a5601f60_raw.wav",
+      "text": "Salut, c'est Théo Leclerc, tu peux me rappeler au 06 23 45 67 89 pour confirmer le devis ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "2_raw",
+      "duration": 6.648,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/c49efea2-7c8d-4955-a2b3-1acdac1998ef_raw.wav",
+      "text": "Allô, c'est Chloé Morel, est-ce que je peux passer récupérer la voiture cet après-midi ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "3_raw",
+      "duration": 4.44,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/15777723-bb15-49b7-86b5-64bd45ddc241_raw.wav",
+      "text": "Bonjour, Léa Ngouma, est-ce que vous avez reçu les pièces pour ma voiture ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "4_raw",
+      "duration": 3.576,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/938c92c0-6f6c-4069-8790-1e4000e654b3_raw.wav",
+      "text": "Oui, c'est Karim Haddad, je vous avais laissé mon mail pour qu'on me tienne informé.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "5_raw",
+      "duration": 4.272,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/938c92c0-6f6c-4069-8790-1e4000e654b3_aug.wav",
+      "text": "Oui, c'est Karim Haddad, je vous avais laissé mon mail pour qu'on me tienne informé.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "5_aug",
+      "duration": 3.4055416666666667,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/131d6f83-192b-4b75-98da-66127b64d2b6_raw.wav",
+      "text": "Allô, ici Patrick Loiseau, j'ai besoin de savoir si le diagnostic est terminé.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "6_raw",
+      "duration": 4.176,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/131d6f83-192b-4b75-98da-66127b64d2b6_aug.wav",
+      "text": "Allô, ici Patrick Loiseau, j'ai besoin de savoir si le diagnostic est terminé.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "6_aug",
+      "duration": 2.9375416666666667,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d50191dd-7b86-4676-aa8d-03cc879ef182_raw.wav",
+      "text": "Rebonjour, Sandrine Dubois, avez-vous une disponibilité la semaine prochaine ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "7_raw",
+      "duration": 3.624,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/04f0fb6d-3bbf-482b-99f8-3129d425bad4_raw.wav",
+      "text": "Je m'appelle Lucien Desroches, une voitur' électrique c'est toujours dispo chez vous ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "8_raw",
+      "duration": 4.392,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d3c7bf6b-64b3-41ff-a5b5-8c04b5ab84f1_raw.wav",
+      "text": "Bonjour, c'est Fatoumata Koulibaly, je voulais changer le rendez-vous de révision.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "9_raw",
+      "duration": 4.248,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/0a64284e-a386-4270-8464-2d1d9791cbde_raw.wav",
+      "text": "Salut, c'est Benjamin Lefèvre, mon numéro de téléphone c'est le 07 12 34 56 78, au cas où.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "10_raw",
+      "duration": 8.16,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/f66375c1-3fd6-40d8-bd96-6d6ac3154a18_raw.wav",
+      "text": "Ici Jean-Claude Leroy, la pièce pour ma 308 elle est arrivée ou pas ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "11_raw",
+      "duration": 3.816,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/f66375c1-3fd6-40d8-bd96-6d6ac3154a18_aug.wav",
+      "text": "Ici Jean-Claude Leroy, la pièce pour ma 308 elle est arrivée ou pas ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "11_aug",
+      "duration": 3.289083333333333,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/beea6ece-287d-4af7-a038-3bc9750ecb7b_raw.wav",
+      "text": "Allô, j'suis Jessica Mas, je passe récupérer ma clio à quelle heure ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "12_raw",
+      "duration": 5.376,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/ba8e713d-6441-4dba-890c-6f7e9f91e0c6_raw.wav",
+      "text": "Bonjour, c'est Samira Bouzid, vous avez un créneau pour venir changer mes pneus ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "13_raw",
+      "duration": 4.56,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/ba8e713d-6441-4dba-890c-6f7e9f91e0c6_aug.wav",
+      "text": "Bonjour, c'est Samira Bouzid, vous avez un créneau pour venir changer mes pneus ?",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "13_aug",
+      "duration": 3.0593333333333335,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/d3ab1d96-f944-4cb5-b986-f8c300f890a5_raw.wav",
+      "text": "C'est Sylvain Thibault, juste pour confirmer l'heure du rendez-vous demain.",
+      "speaker": "client",
+      "call_id": "0094f648-463f-40e9-80c2-fd8d3093eb95",
+      "chunk_id": "14_raw",
+      "duration": 4.128,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/b90291aa-4541-4401-948c-3f53008032fa_raw.wav",
+      "text": "Bonjour, c'est Jeanne Lefebvre, je voudrais prendre un rendez-vous pour ma révision.",
+      "speaker": "client",
+      "call_id": "bbb27d97-a381-4b2a-8164-d500166c5b38",
+      "chunk_id": "0_raw",
+      "duration": 3.408,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/b90291aa-4541-4401-948c-3f53008032fa_aug.wav",
+      "text": "Bonjour, c'est Jeanne Lefebvre, je voudrais prendre un rendez-vous pour ma révision.",
+      "speaker": "client",
+      "call_id": "bbb27d97-a381-4b2a-8164-d500166c5b38",
+      "chunk_id": "0_aug",
+      "duration": 2.31775,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/ce833593-e5fe-47aa-a82c-c66e5b50a1c7_raw.wav",
+      "text": "Salim Ben Ahmed ici, pouvez-vous vérifier si ma pièce est arrivée ?",
+      "speaker": "client",
+      "call_id": "bbb27d97-a381-4b2a-8164-d500166c5b38",
+      "chunk_id": "1_raw",
+      "duration": 3.888,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/ce833593-e5fe-47aa-a82c-c66e5b50a1c7_aug.wav",
+      "text": "Salim Ben Ahmed ici, pouvez-vous vérifier si ma pièce est arrivée ?",
+      "speaker": "client",
+      "call_id": "bbb27d97-a381-4b2a-8164-d500166c5b38",
+      "chunk_id": "1_aug",
+      "duration": 3.058333333333333,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/377535b5-2e63-4527-954a-4c39dc9b251a_raw.wav",
+      "text": "Je m'appelle Clémentine Martin et j'aimerais un devis pour la carrosserie.",
+      "speaker": "client",
+      "call_id": "bbb27d97-a381-4b2a-8164-d500166c5b38",
+      "chunk_id": "2_raw",
+      "duration": 3.624,
+      "category": "Identification Client"
+    },
+    {
+      "audio_path": "Audio/e99b4605-b9a8-426a-bc6d-ca03c2c6793a_raw.wav",
+      "text": "Mercedes CLASSE A",
+      "speaker": "client",
+      "call_id": "f6990a7d-3037-4af1-8bd1-be9bfbfb6dcc",
+      "chunk_id": "0_raw",
+      "duration": 2.04975,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e99b4605-b9a8-426a-bc6d-ca03c2c6793a_aug.wav",
+      "text": "Mercedes CLASSE A",
+      "speaker": "client",
+      "call_id": "f6990a7d-3037-4af1-8bd1-be9bfbfb6dcc",
+      "chunk_id": "0_aug",
+      "duration": 1.854,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6b451c5b-32d3-4f00-b854-6f0c097e967a_raw.wav",
+      "text": "Mercedes CLASSE C",
+      "speaker": "client",
+      "call_id": "55f27b6e-6a70-4c5e-b8dc-b0e8b69ca2e1",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/63e841f7-b434-4130-a254-cde8af8c89bc_raw.wav",
+      "text": "Mercedes GLA",
+      "speaker": "client",
+      "call_id": "05e0876a-d6c0-44ca-852f-4fa2fbbf45f6",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/99012e49-82c5-495f-afc4-6529fd81c3fd_raw.wav",
+      "text": "Mercedes GLC",
+      "speaker": "client",
+      "call_id": "bb9478d5-d87b-48a7-93d2-7085c13aa2f5",
+      "chunk_id": "0_raw",
+      "duration": 1.538875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/20aeb07f-f3c7-4212-8cf0-dc90685aff60_raw.wav",
+      "text": "Mercedes CLA",
+      "speaker": "client",
+      "call_id": "318d937f-fa6b-4470-b012-8607a0841e76",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/599f7b7e-85ea-4f78-b0ad-ea781e9f8f58_raw.wav",
+      "text": "Mercedes EQE",
+      "speaker": "client",
+      "call_id": "e971674d-177d-4217-a382-0aee1a694157",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/599f7b7e-85ea-4f78-b0ad-ea781e9f8f58_aug.wav",
+      "text": "Mercedes EQE",
+      "speaker": "client",
+      "call_id": "e971674d-177d-4217-a382-0aee1a694157",
+      "chunk_id": "0_aug",
+      "duration": 1.10225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6d62ba81-eb70-43e1-baa3-44ef8d607289_raw.wav",
+      "text": "Mercedes EQS",
+      "speaker": "client",
+      "call_id": "495e658a-8fba-4ec4-a097-3b9c34030dec",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6d62ba81-eb70-43e1-baa3-44ef8d607289_aug.wav",
+      "text": "Mercedes EQS",
+      "speaker": "client",
+      "call_id": "495e658a-8fba-4ec4-a097-3b9c34030dec",
+      "chunk_id": "0_aug",
+      "duration": 0.782125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/bdd7d9e9-c6c3-4a46-83c4-02a12be7f537_raw.wav",
+      "text": "Mercedes EQA",
+      "speaker": "client",
+      "call_id": "e6df4b4e-b2e9-4299-bfc8-e8eb7bd166f1",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/4bf4fb38-5d46-412f-ac2c-cdc9cdbd85d4_raw.wav",
+      "text": "Mercedes Sprinter",
+      "speaker": "client",
+      "call_id": "9e3eb922-5fa1-4349-a2cc-0d9d4c5ce04c",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3273d744-7944-48eb-be73-8ccfa0123a3b_raw.wav",
+      "text": "Mercedes AMG",
+      "speaker": "client",
+      "call_id": "c3cde01f-88dd-4871-a651-6fe05f5aa250",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3273d744-7944-48eb-be73-8ccfa0123a3b_aug.wav",
+      "text": "Mercedes AMG",
+      "speaker": "client",
+      "call_id": "c3cde01f-88dd-4871-a651-6fe05f5aa250",
+      "chunk_id": "0_aug",
+      "duration": 0.889,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/10976c17-738a-4597-9776-23c1328f31b9_raw.wav",
+      "text": "Audi A1",
+      "speaker": "client",
+      "call_id": "174587df-b4fa-4e41-bf96-c3a4699f2dd3",
+      "chunk_id": "0_raw",
+      "duration": 0.6565,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/10976c17-738a-4597-9776-23c1328f31b9_aug.wav",
+      "text": "Audi A1",
+      "speaker": "client",
+      "call_id": "174587df-b4fa-4e41-bf96-c3a4699f2dd3",
+      "chunk_id": "0_aug",
+      "duration": 0.43125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9b9e5d22-c54b-48ea-b6c4-615d632c8d2d_raw.wav",
+      "text": "Audi A3",
+      "speaker": "client",
+      "call_id": "88182329-ef31-442b-8244-cfd13c5c1db5",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/830519a1-7aec-46cf-a836-4f5b440ad548_raw.wav",
+      "text": "Audi A4",
+      "speaker": "client",
+      "call_id": "9bd34fac-9d2a-4fbe-a80b-d2e69110aa0a",
+      "chunk_id": "0_raw",
+      "duration": 1.771125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/830519a1-7aec-46cf-a836-4f5b440ad548_aug.wav",
+      "text": "Audi A4",
+      "speaker": "client",
+      "call_id": "9bd34fac-9d2a-4fbe-a80b-d2e69110aa0a",
+      "chunk_id": "0_aug",
+      "duration": 1.289375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/8c6d412c-64cb-4743-b467-1ab886eb1ba7_raw.wav",
+      "text": "Audi A5",
+      "speaker": "client",
+      "call_id": "23585247-0b7c-453b-991a-a04422f9b52b",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/262b9e90-4713-4834-9e90-e53496942c2b_raw.wav",
+      "text": "Audi A6",
+      "speaker": "client",
+      "call_id": "52f189b2-5e4d-44bf-9134-665cad9d2b12",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d7bd5d63-6536-4d5b-a8c5-6e38b61e6940_raw.wav",
+      "text": "Audi A7",
+      "speaker": "client",
+      "call_id": "4e5586ec-54e8-4f24-8a44-6d5fd18b5b16",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/16f44c10-032a-4974-9c42-94ea625379ca_raw.wav",
+      "text": "Audi A8",
+      "speaker": "client",
+      "call_id": "b1210bc8-d762-49b9-b44c-2d159096b3e6",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/16f44c10-032a-4974-9c42-94ea625379ca_aug.wav",
+      "text": "Audi A8",
+      "speaker": "client",
+      "call_id": "b1210bc8-d762-49b9-b44c-2d159096b3e6",
+      "chunk_id": "0_aug",
+      "duration": 0.87925,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/dae65b2e-7095-47d1-a4c8-33fbfc6d88f1_raw.wav",
+      "text": "Audi Q2",
+      "speaker": "client",
+      "call_id": "b3b53dce-adf0-456d-af3b-77905b6cc355",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/5ab36538-8894-4b5c-8898-951c1cc51321_raw.wav",
+      "text": "Audi Q3",
+      "speaker": "client",
+      "call_id": "f7b1ca4f-e418-4029-acbd-c434313b9d6a",
+      "chunk_id": "0_raw",
+      "duration": 0.749375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/5ab36538-8894-4b5c-8898-951c1cc51321_aug.wav",
+      "text": "Audi Q3",
+      "speaker": "client",
+      "call_id": "f7b1ca4f-e418-4029-acbd-c434313b9d6a",
+      "chunk_id": "0_aug",
+      "duration": 0.606875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0ce04f59-6cf2-4670-8e93-b0cef5cbe49e_raw.wav",
+      "text": "Audi Q4",
+      "speaker": "client",
+      "call_id": "b23c348a-adc7-4d7f-ab37-4ca28642ef67",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0ce04f59-6cf2-4670-8e93-b0cef5cbe49e_aug.wav",
+      "text": "Audi Q4",
+      "speaker": "client",
+      "call_id": "b23c348a-adc7-4d7f-ab37-4ca28642ef67",
+      "chunk_id": "0_aug",
+      "duration": 0.80775,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/317c2840-9fb9-4240-adfd-437ef8c89aa9_raw.wav",
+      "text": "Audi Q5",
+      "speaker": "client",
+      "call_id": "deecd0dd-d5db-4d16-aeaa-8627ceb396ab",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/317c2840-9fb9-4240-adfd-437ef8c89aa9_aug.wav",
+      "text": "Audi Q5",
+      "speaker": "client",
+      "call_id": "deecd0dd-d5db-4d16-aeaa-8627ceb396ab",
+      "chunk_id": "0_aug",
+      "duration": 0.62625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/f88c98b2-63e4-444c-b757-95b20e4b59a8_raw.wav",
+      "text": "Audi Q6",
+      "speaker": "client",
+      "call_id": "bc5979b1-117b-482f-9944-9e062983b1f0",
+      "chunk_id": "0_raw",
+      "duration": 0.88875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/fc06d430-2bf6-4797-9cae-d3bc84e5adfe_raw.wav",
+      "text": "Audi Q7",
+      "speaker": "client",
+      "call_id": "3c29e6d6-d4cf-4f4f-93f0-837616de2b25",
+      "chunk_id": "0_raw",
+      "duration": 1.67825,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/609af9a6-0b8b-4dd3-a740-3e447adc545b_raw.wav",
+      "text": "Audi Q8",
+      "speaker": "client",
+      "call_id": "34d45a91-f564-4143-a6d0-9bb1b2c3cf0e",
+      "chunk_id": "0_raw",
+      "duration": 1.67825,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/c26ba5a0-c1db-4a98-9b67-55565502dfe4_raw.wav",
+      "text": "Audi Sportback",
+      "speaker": "client",
+      "call_id": "3f98a193-7c1a-450e-9255-0a9158bfa614",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/60aaf9e6-c320-41aa-b523-29aa4457afc3_raw.wav",
+      "text": "Audi e-tron",
+      "speaker": "client",
+      "call_id": "9a3ccefa-7f4c-417d-8c46-e2311aadfd83",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3d207de7-c11f-4d27-89a8-0317f404ba91_raw.wav",
+      "text": "Porsche 911",
+      "speaker": "client",
+      "call_id": "d33f169d-df81-4f00-90d5-402f41c42f8b",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d3bfd8b6-58d9-4f3d-af7c-580081695bc2_raw.wav",
+      "text": "Porsche 718 Cayman",
+      "speaker": "client",
+      "call_id": "8ad95fa7-946a-48ca-9b8d-bc9d39bc0856",
+      "chunk_id": "0_raw",
+      "duration": 2.560625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d3bfd8b6-58d9-4f3d-af7c-580081695bc2_aug.wav",
+      "text": "Porsche 718 Cayman",
+      "speaker": "client",
+      "call_id": "8ad95fa7-946a-48ca-9b8d-bc9d39bc0856",
+      "chunk_id": "0_aug",
+      "duration": 1.788125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b15021cf-437f-4111-aad6-f9efe5adf0a7_raw.wav",
+      "text": "Porsche 718 Boxster",
+      "speaker": "client",
+      "call_id": "f2947875-f55c-4895-a089-da12279a4b6a",
+      "chunk_id": "0_raw",
+      "duration": 2.46775,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b15021cf-437f-4111-aad6-f9efe5adf0a7_aug.wav",
+      "text": "Porsche 718 Boxster",
+      "speaker": "client",
+      "call_id": "f2947875-f55c-4895-a089-da12279a4b6a",
+      "chunk_id": "0_aug",
+      "duration": 1.649625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/c64ecee7-db59-4db2-a199-04f43a919c79_raw.wav",
+      "text": "Porsche Cayenne",
+      "speaker": "client",
+      "call_id": "c8e8bfd4-3a73-4d0c-be0b-7821d62bf29f",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/c64ecee7-db59-4db2-a199-04f43a919c79_aug.wav",
+      "text": "Porsche Cayenne",
+      "speaker": "client",
+      "call_id": "c8e8bfd4-3a73-4d0c-be0b-7821d62bf29f",
+      "chunk_id": "0_aug",
+      "duration": 0.787875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/171bd750-fb3e-4542-b28a-24380b4c3505_raw.wav",
+      "text": "Porsche - Macan",
+      "speaker": "client",
+      "call_id": "6c179b17-b5be-4746-8d31-c830ce5aee46",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/07a859b0-f874-4bc6-9c2e-96b22fc3e463_raw.wav",
+      "text": "Porsche - Panamera",
+      "speaker": "client",
+      "call_id": "0a0ea3ec-7412-4138-bcb8-0bdf2ad7732a",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/34a6133c-73e7-4aad-8900-f54da4767579_raw.wav",
+      "text": "Porsche - Taycan",
+      "speaker": "client",
+      "call_id": "98dd34e1-6353-4ef4-9d44-a183460d0ad5",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6b667623-6173-4249-832f-64f76ff09769_raw.wav",
+      "text": "Nissan - Qashqai",
+      "speaker": "client",
+      "call_id": "8a523639-d201-45c1-ac50-3f06cfeacb80",
+      "chunk_id": "0_raw",
+      "duration": 2.096125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6b667623-6173-4249-832f-64f76ff09769_aug.wav",
+      "text": "Nissan - Qashqai",
+      "speaker": "client",
+      "call_id": "8a523639-d201-45c1-ac50-3f06cfeacb80",
+      "chunk_id": "0_aug",
+      "duration": 1.88475,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/620bfb5d-93b2-4227-bec6-2dfbd2d77b43_raw.wav",
+      "text": "Nissan - Juke",
+      "speaker": "client",
+      "call_id": "a586254c-89bc-4c7f-b1fd-778dfa3ab233",
+      "chunk_id": "0_raw",
+      "duration": 2.00325,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/aba09058-17f0-4b5a-ab1c-000ba84a6762_raw.wav",
+      "text": "Nissan - X-Trail",
+      "speaker": "client",
+      "call_id": "ba7f1f46-bd64-4241-9df7-80dab1236b5a",
+      "chunk_id": "0_raw",
+      "duration": 0.610125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/aba09058-17f0-4b5a-ab1c-000ba84a6762_aug.wav",
+      "text": "Nissan - X-Trail",
+      "speaker": "client",
+      "call_id": "ba7f1f46-bd64-4241-9df7-80dab1236b5a",
+      "chunk_id": "0_aug",
+      "duration": 0.382625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/94fa2d06-87f0-487a-baa7-99bc49045474_raw.wav",
+      "text": "Nissan - e-Power",
+      "speaker": "client",
+      "call_id": "1bc0707f-14cc-436c-a32c-45b4909a545d",
+      "chunk_id": "0_raw",
+      "duration": 0.981625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/c0a1a45b-bc50-434b-a486-3344159da0c5_raw.wav",
+      "text": "Nissan - Leaf",
+      "speaker": "client",
+      "call_id": "21b88f01-5720-4bf0-adbe-dda42023a3d3",
+      "chunk_id": "0_raw",
+      "duration": 0.749375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/43c2c450-41f5-4030-a3d6-170d7f829a96_raw.wav",
+      "text": "Nissan - Ariya",
+      "speaker": "client",
+      "call_id": "c83082d1-245e-486c-a997-bae1b0ad59be",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/43c2c450-41f5-4030-a3d6-170d7f829a96_aug.wav",
+      "text": "Nissan - Ariya",
+      "speaker": "client",
+      "call_id": "c83082d1-245e-486c-a997-bae1b0ad59be",
+      "chunk_id": "0_aug",
+      "duration": 1.029375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/983cd2a0-9f66-4960-8550-963af6802d66_raw.wav",
+      "text": "Nissan - Murano",
+      "speaker": "client",
+      "call_id": "f4186374-9af9-4eee-9641-ca8ff2ae741d",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/983cd2a0-9f66-4960-8550-963af6802d66_aug.wav",
+      "text": "Nissan - Murano",
+      "speaker": "client",
+      "call_id": "f4186374-9af9-4eee-9641-ca8ff2ae741d",
+      "chunk_id": "0_aug",
+      "duration": 0.68825,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/a8ed1827-f64c-482c-91e8-10aebce83831_raw.wav",
+      "text": "Nissan - Armada",
+      "speaker": "client",
+      "call_id": "3d0959ae-6d1f-4c90-95bd-6e4574be17f6",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/1aaa723c-e706-446b-9a67-8e2b78906985_raw.wav",
+      "text": "Nissan - 370Z",
+      "speaker": "client",
+      "call_id": "4704c6f1-e87c-4c53-a082-79dfa45b73eb",
+      "chunk_id": "0_raw",
+      "duration": 1.771125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e678a695-2f07-4e61-b675-112b6744c740_raw.wav",
+      "text": "Nissan - 400Z",
+      "speaker": "client",
+      "call_id": "6831cfdc-fe6a-495c-8e93-5fa369c4c800",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e678a695-2f07-4e61-b675-112b6744c740_aug.wav",
+      "text": "Nissan - 400Z",
+      "speaker": "client",
+      "call_id": "6831cfdc-fe6a-495c-8e93-5fa369c4c800",
+      "chunk_id": "0_aug",
+      "duration": 1.29775,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cfa89271-dea2-47d7-953c-99dabd47661f_raw.wav",
+      "text": "Nissan - GT-R",
+      "speaker": "client",
+      "call_id": "834b4a85-2162-456c-ac35-1fc058a02f7c",
+      "chunk_id": "0_raw",
+      "duration": 1.956875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cfa89271-dea2-47d7-953c-99dabd47661f_aug.wav",
+      "text": "Nissan - GT-R",
+      "speaker": "client",
+      "call_id": "834b4a85-2162-456c-ac35-1fc058a02f7c",
+      "chunk_id": "0_aug",
+      "duration": 1.4235,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/5ba8d696-9099-4c2a-a7c2-c061449c5444_raw.wav",
+      "text": "Nissan - Micra",
+      "speaker": "client",
+      "call_id": "da884bbb-6add-44b9-b283-14b572210528",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/2e8b0a20-4994-42c5-8e25-af431d48f0cf_raw.wav",
+      "text": "Nissan - Primastar",
+      "speaker": "client",
+      "call_id": "0d085244-a88e-4867-8319-c58674da4f98",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/528a8a6f-e059-4d11-a8dc-27eccd0c43c8_raw.wav",
+      "text": "Nissan - Interstar",
+      "speaker": "client",
+      "call_id": "e4a50d24-026d-4dc4-8af9-e57295565afd",
+      "chunk_id": "0_raw",
+      "duration": 1.67825,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/528a8a6f-e059-4d11-a8dc-27eccd0c43c8_aug.wav",
+      "text": "Nissan - Interstar",
+      "speaker": "client",
+      "call_id": "e4a50d24-026d-4dc4-8af9-e57295565afd",
+      "chunk_id": "0_aug",
+      "duration": 1.20275,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/982056aa-9d2d-4d35-af08-78f982515de7_raw.wav",
+      "text": "Nissan - Townstar",
+      "speaker": "client",
+      "call_id": "58d0edf1-a8d9-42a9-907f-8f8c4adf0b32",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/982056aa-9d2d-4d35-af08-78f982515de7_aug.wav",
+      "text": "Nissan - Townstar",
+      "speaker": "client",
+      "call_id": "58d0edf1-a8d9-42a9-907f-8f8c4adf0b32",
+      "chunk_id": "0_aug",
+      "duration": 1.15425,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9776d013-3de1-43e3-b082-22d61a06da21_raw.wav",
+      "text": "Renault - Twingo",
+      "speaker": "client",
+      "call_id": "62c4c839-2290-4cf9-8b8a-b12651cae92a",
+      "chunk_id": "0_raw",
+      "duration": 0.981625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9776d013-3de1-43e3-b082-22d61a06da21_aug.wav",
+      "text": "Renault - Twingo",
+      "speaker": "client",
+      "call_id": "62c4c839-2290-4cf9-8b8a-b12651cae92a",
+      "chunk_id": "0_aug",
+      "duration": 0.812375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/dbffe8d2-9881-4800-8aaf-9b017d1de1fa_raw.wav",
+      "text": "Renault - Renault 5",
+      "speaker": "client",
+      "call_id": "752d181a-1b1b-4792-b6a0-e9a466788b4e",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3c50413d-ff93-414e-8055-e39447d7549c_raw.wav",
+      "text": "Renault - Captur",
+      "speaker": "client",
+      "call_id": "22f391ce-b8be-49ee-a4ff-44ede0baa579",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3c50413d-ff93-414e-8055-e39447d7549c_aug.wav",
+      "text": "Renault - Captur",
+      "speaker": "client",
+      "call_id": "22f391ce-b8be-49ee-a4ff-44ede0baa579",
+      "chunk_id": "0_aug",
+      "duration": 0.783375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/97ab5296-a044-4b9f-a11f-7ef903059d53_raw.wav",
+      "text": "Renault - Clio",
+      "speaker": "client",
+      "call_id": "b402453d-c022-46b3-8561-cc36345d1bbe",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/8db97f79-55e0-4786-bc32-1c1b320b6409_raw.wav",
+      "text": "Renault - Duster",
+      "speaker": "client",
+      "call_id": "39e76411-4800-4c9d-979a-55cc3b7d08d2",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/a05aa7ed-7237-4a34-a190-ce4364558d2a_raw.wav",
+      "text": "Renault - Kangoo",
+      "speaker": "client",
+      "call_id": "6cee14bb-5266-49e8-95a3-18a5f5b3a975",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/a05aa7ed-7237-4a34-a190-ce4364558d2a_aug.wav",
+      "text": "Renault - Kangoo",
+      "speaker": "client",
+      "call_id": "6cee14bb-5266-49e8-95a3-18a5f5b3a975",
+      "chunk_id": "0_aug",
+      "duration": 0.86825,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6de9fa86-3e27-4179-b0b7-32b5f818351c_raw.wav",
+      "text": "Renault - Mégane",
+      "speaker": "client",
+      "call_id": "4a2c68d5-f8b5-4209-b635-631b6b0db1e2",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/ed08fbd0-0fe3-4d83-827b-c05303341fd6_raw.wav",
+      "text": "Renault - Master",
+      "speaker": "client",
+      "call_id": "b1c07606-7caf-437a-a8ea-785486937438",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/25714aea-76c1-4c33-b3c3-bc6664428dcc_raw.wav",
+      "text": "Renault - Symbioz",
+      "speaker": "client",
+      "call_id": "a9a2556e-4413-4e28-a893-c9ab907bbfab",
+      "chunk_id": "0_raw",
+      "duration": 0.88875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/25714aea-76c1-4c33-b3c3-bc6664428dcc_aug.wav",
+      "text": "Renault - Symbioz",
+      "speaker": "client",
+      "call_id": "a9a2556e-4413-4e28-a893-c9ab907bbfab",
+      "chunk_id": "0_aug",
+      "duration": 0.607375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0a350a80-3add-4bd9-9fa9-2c60a9cdf7f2_raw.wav",
+      "text": "Renault - Sandero",
+      "speaker": "client",
+      "call_id": "b171c9b5-5520-496c-b418-a60ac4d0fb1f",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0a350a80-3add-4bd9-9fa9-2c60a9cdf7f2_aug.wav",
+      "text": "Renault - Sandero",
+      "speaker": "client",
+      "call_id": "b171c9b5-5520-496c-b418-a60ac4d0fb1f",
+      "chunk_id": "0_aug",
+      "duration": 0.736125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/2e876159-96ce-41bf-815d-be2388873838_raw.wav",
+      "text": "Renault - Trafic",
+      "speaker": "client",
+      "call_id": "2515d9fd-95f8-41d4-a67c-09e479058947",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/2e876159-96ce-41bf-815d-be2388873838_aug.wav",
+      "text": "Renault - Trafic",
+      "speaker": "client",
+      "call_id": "2515d9fd-95f8-41d4-a67c-09e479058947",
+      "chunk_id": "0_aug",
+      "duration": 0.95675,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b6e80261-5d0f-43ed-bac8-a004dbe8b965_raw.wav",
+      "text": "Renault - ZOE",
+      "speaker": "client",
+      "call_id": "dadd5855-6502-48ec-b5b0-e468039cd570",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/7ddc39f0-f538-4ca3-a1cd-738fa6273378_raw.wav",
+      "text": "Renault",
+      "speaker": "client",
+      "call_id": "3700df13-1e51-4a32-9c8d-7986a9047288",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/90bf9eff-e7ad-4603-a690-9a4419bc4bdd_raw.wav",
+      "text": "Austral",
+      "speaker": "client",
+      "call_id": "cd0b7165-5ecd-4679-9981-175114786962",
+      "chunk_id": "0_raw",
+      "duration": 0.749375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/90bf9eff-e7ad-4603-a690-9a4419bc4bdd_aug.wav",
+      "text": "Austral",
+      "speaker": "client",
+      "call_id": "cd0b7165-5ecd-4679-9981-175114786962",
+      "chunk_id": "0_aug",
+      "duration": 0.508,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/42fbebcd-a35f-41b6-9ddd-a3d849737a34_raw.wav",
+      "text": "Renault",
+      "speaker": "client",
+      "call_id": "2e11be70-1a61-490c-9a89-71568a2b473f",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/da0c637f-baaa-478c-8cef-b212af541b71_raw.wav",
+      "text": "Espace",
+      "speaker": "client",
+      "call_id": "e2db2212-6121-4e4d-9967-8402776a4b09",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b8d5749d-1c59-4cd8-bb30-9fd6d8e8e7f0_raw.wav",
+      "text": "Renault",
+      "speaker": "client",
+      "call_id": "a840ceea-7e48-4925-9a52-0cea6c7fc6ab",
+      "chunk_id": "0_raw",
+      "duration": 0.51725,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b8d5749d-1c59-4cd8-bb30-9fd6d8e8e7f0_aug.wav",
+      "text": "Renault",
+      "speaker": "client",
+      "call_id": "a840ceea-7e48-4925-9a52-0cea6c7fc6ab",
+      "chunk_id": "0_aug",
+      "duration": 0.451875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3dc13e66-bb30-48fb-9513-2fc2fe5ac309_raw.wav",
+      "text": "Rafale",
+      "speaker": "client",
+      "call_id": "f3116e3a-bfcc-493a-baec-e00a31b3a441",
+      "chunk_id": "0_raw",
+      "duration": 1.399625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/37f112ba-0497-4ede-ab1d-1e7f718a5e4d_raw.wav",
+      "text": "MITSUBISHI",
+      "speaker": "client",
+      "call_id": "adf5bd93-2916-4d67-a31b-715073ccabf5",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/37f112ba-0497-4ede-ab1d-1e7f718a5e4d_aug.wav",
+      "text": "MITSUBISHI",
+      "speaker": "client",
+      "call_id": "adf5bd93-2916-4d67-a31b-715073ccabf5",
+      "chunk_id": "0_aug",
+      "duration": 1.147375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/04beaf5f-886c-4e83-aa51-e74fd2bbd8e5_raw.wav",
+      "text": "ABARTH",
+      "speaker": "client",
+      "call_id": "fb40088c-c5a0-4526-825d-41325c0d2961",
+      "chunk_id": "0_raw",
+      "duration": 3.860875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/04beaf5f-886c-4e83-aa51-e74fd2bbd8e5_aug.wav",
+      "text": "ABARTH",
+      "speaker": "client",
+      "call_id": "fb40088c-c5a0-4526-825d-41325c0d2961",
+      "chunk_id": "0_aug",
+      "duration": 2.717875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/46ac4366-9b8e-4161-b3b5-589dd4e2beee_raw.wav",
+      "text": "AIWAYS",
+      "speaker": "client",
+      "call_id": "b9f1c21a-e273-4b5a-bf08-aef9d63fbde9",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/803b88e0-743f-49c0-bbd7-87308538d386_raw.wav",
+      "text": "ALPINA",
+      "speaker": "client",
+      "call_id": "eb984b94-7f0e-4d36-b55a-768b2173e267",
+      "chunk_id": "0_raw",
+      "duration": 1.4925,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/ecbd79e1-132d-4633-9d13-51e3e4662cd1_raw.wav",
+      "text": "ALPINE",
+      "speaker": "client",
+      "call_id": "0174651c-3c9a-4cf6-a132-53bfc74a80a0",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/ecbd79e1-132d-4633-9d13-51e3e4662cd1_aug.wav",
+      "text": "ALPINE",
+      "speaker": "client",
+      "call_id": "0174651c-3c9a-4cf6-a132-53bfc74a80a0",
+      "chunk_id": "0_aug",
+      "duration": 0.684875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b87818e6-5715-449f-9b74-641995dc57df_raw.wav",
+      "text": "MERCEDES-BENZ AMG",
+      "speaker": "client",
+      "call_id": "281362ea-7ca2-4220-aa03-17f48160c0d9",
+      "chunk_id": "0_raw",
+      "duration": 5.625625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/b87818e6-5715-449f-9b74-641995dc57df_aug.wav",
+      "text": "MERCEDES-BENZ AMG",
+      "speaker": "client",
+      "call_id": "281362ea-7ca2-4220-aa03-17f48160c0d9",
+      "chunk_id": "0_aug",
+      "duration": 4.758875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d5298418-4b4e-4f4e-8f2c-49ed12057133_raw.wav",
+      "text": "ASTON MARTIN",
+      "speaker": "client",
+      "call_id": "3962bcfe-61c0-42b1-9650-1bfc1ad1648a",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d5298418-4b4e-4f4e-8f2c-49ed12057133_aug.wav",
+      "text": "ASTON MARTIN",
+      "speaker": "client",
+      "call_id": "3962bcfe-61c0-42b1-9650-1bfc1ad1648a",
+      "chunk_id": "0_aug",
+      "duration": 0.951875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e6cad1b5-99cd-4278-9858-b34b1efcd12f_raw.wav",
+      "text": "AUSTIN",
+      "speaker": "client",
+      "call_id": "3328ae5a-862f-4cc1-a75a-792e30e5d7ef",
+      "chunk_id": "0_raw",
+      "duration": 0.703,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/78f6e753-7683-45c7-878c-64338c6dd736_raw.wav",
+      "text": "AUTOBIANCHI",
+      "speaker": "client",
+      "call_id": "0a6414f5-fb5f-43ef-b410-13babeeb09c1",
+      "chunk_id": "0_raw",
+      "duration": 2.9785,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/31b0c2ee-e460-406a-8507-f5011d325e78_raw.wav",
+      "text": "AUTOMOBILES CHATENET",
+      "speaker": "client",
+      "call_id": "9928fe7a-1a52-4e1c-ac3e-2e467c933f68",
+      "chunk_id": "0_raw",
+      "duration": 8.59775,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/73bdf87a-cfee-4743-a352-2d6f0ba7db69_raw.wav",
+      "text": "AUVERLAND",
+      "speaker": "client",
+      "call_id": "bda9296f-8106-46c5-a991-815cd0ecc8b3",
+      "chunk_id": "0_raw",
+      "duration": 8.7835,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/bc16882f-b206-4f70-876e-62b2f6f965d6_raw.wav",
+      "text": "BENELLI",
+      "speaker": "client",
+      "call_id": "5fa220d6-ba9e-40b4-8088-bcdaef64bb96",
+      "chunk_id": "0_raw",
+      "duration": 4.9755,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/bc16882f-b206-4f70-876e-62b2f6f965d6_aug.wav",
+      "text": "BENELLI",
+      "speaker": "client",
+      "call_id": "5fa220d6-ba9e-40b4-8088-bcdaef64bb96",
+      "chunk_id": "0_aug",
+      "duration": 3.27525,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/304450ab-ae3b-41cf-a6dd-49e2dd6eb193_raw.wav",
+      "text": "BENTLEY",
+      "speaker": "client",
+      "call_id": "edf36dfc-2f72-48b2-828f-ac1575242b0e",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/fc07f812-d9e1-40e0-a9fa-56f32f44556f_raw.wav",
+      "text": "BERTONE",
+      "speaker": "client",
+      "call_id": "652ba5c0-2af0-4fef-87d8-6372a70fe101",
+      "chunk_id": "0_raw",
+      "duration": 3.907375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0cb6687e-83a5-4874-afaf-be1d7f808091_raw.wav",
+      "text": "BETA",
+      "speaker": "client",
+      "call_id": "62b1f4c4-8ee9-4dfe-91c6-c0526df66ff2",
+      "chunk_id": "0_raw",
+      "duration": 0.47075,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/1f989cf7-5ec0-4d58-95ac-d1fed9d7e856_raw.wav",
+      "text": "MAN",
+      "speaker": "client",
+      "call_id": "f35e03f3-2b74-4568-b9bc-60e2d0a1cfd1",
+      "chunk_id": "0_raw",
+      "duration": 0.51725,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/1f989cf7-5ec0-4d58-95ac-d1fed9d7e856_aug.wav",
+      "text": "MAN",
+      "speaker": "client",
+      "call_id": "f35e03f3-2b74-4568-b9bc-60e2d0a1cfd1",
+      "chunk_id": "0_aug",
+      "duration": 0.3315,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/68d67dab-49cf-4ffb-b3a1-3bd3e042a9a1_raw.wav",
+      "text": "BLUECAR GROUPE BOLLORE",
+      "speaker": "client",
+      "call_id": "68194573-56a8-4a42-aa04-c3bc342c1f79",
+      "chunk_id": "0_raw",
+      "duration": 7.901125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/997891fa-44ef-4eee-b2ce-37794f10cd7f_raw.wav",
+      "text": "BUGATTI",
+      "speaker": "client",
+      "call_id": "860f3c07-26c2-4801-86fd-c541a4f35955",
+      "chunk_id": "0_raw",
+      "duration": 0.88875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/997891fa-44ef-4eee-b2ce-37794f10cd7f_aug.wav",
+      "text": "BUGATTI",
+      "speaker": "client",
+      "call_id": "860f3c07-26c2-4801-86fd-c541a4f35955",
+      "chunk_id": "0_aug",
+      "duration": 0.560375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3d5011f6-bf0d-4ae9-8186-5b151b7acae2_raw.wav",
+      "text": "BUICK",
+      "speaker": "client",
+      "call_id": "28294636-ccab-40d3-91eb-606ed615ec30",
+      "chunk_id": "0_raw",
+      "duration": 0.703,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/038ed991-2297-4e11-a990-c5762509fd81_raw.wav",
+      "text": "BULLIT",
+      "speaker": "client",
+      "call_id": "ac1c845d-da0c-4d5e-a50b-cd3ccfad8a75",
+      "chunk_id": "0_raw",
+      "duration": 3.62875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/038ed991-2297-4e11-a990-c5762509fd81_aug.wav",
+      "text": "BULLIT",
+      "speaker": "client",
+      "call_id": "ac1c845d-da0c-4d5e-a50b-cd3ccfad8a75",
+      "chunk_id": "0_aug",
+      "duration": 3.173125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/8f7a52e5-80a3-4e84-b996-8bc90dd2b72d_raw.wav",
+      "text": "BYD",
+      "speaker": "client",
+      "call_id": "636d4f02-6331-446d-b1aa-92811640b036",
+      "chunk_id": "0_raw",
+      "duration": 0.6565,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/eda2c1b7-eb15-472e-b8ae-a1e09a4eb7bc_raw.wav",
+      "text": "CADILLAC",
+      "speaker": "client",
+      "call_id": "ecc6a243-a3cb-492c-aa2a-66fb2e4b56f6",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/2e31cae6-86ba-4649-b125-09a041ba19fb_raw.wav",
+      "text": "CATERHAM",
+      "speaker": "client",
+      "call_id": "56f209f1-af1c-4ed2-a580-0fd7e2635a36",
+      "chunk_id": "0_raw",
+      "duration": 4.00025,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/204b45d2-b42c-412e-93b1-3a39c4317f0f_raw.wav",
+      "text": "CHEVROLET",
+      "speaker": "client",
+      "call_id": "5043bfee-1448-4e49-8d41-94282bc41c4e",
+      "chunk_id": "0_raw",
+      "duration": 0.6565,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/58b7d4b9-d09a-4768-ae8a-8775b6d4ab8b_raw.wav",
+      "text": "Ferrari",
+      "speaker": "client",
+      "call_id": "179045b7-3d8f-4dae-b55b-4d8699390419",
+      "chunk_id": "0_raw",
+      "duration": 0.84225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/39170bfc-65ae-4923-8f1f-6a393dce2df2_raw.wav",
+      "text": "Harley Davidson",
+      "speaker": "client",
+      "call_id": "ea781419-014c-44f4-a282-5f20ba111032",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/39170bfc-65ae-4923-8f1f-6a393dce2df2_aug.wav",
+      "text": "Harley Davidson",
+      "speaker": "client",
+      "call_id": "ea781419-014c-44f4-a282-5f20ba111032",
+      "chunk_id": "0_aug",
+      "duration": 1.121,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/40f527da-56b7-4664-8a56-af3ac0343ff8_raw.wav",
+      "text": "Hummer",
+      "speaker": "client",
+      "call_id": "7b411504-505c-4e3b-85dc-63b312e5ec1b",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/88b90056-511f-4144-b7a1-d60e7f2baf3f_raw.wav",
+      "text": "Iveco",
+      "speaker": "client",
+      "call_id": "80779a1c-a19d-4466-9de9-45c9315a5cc7",
+      "chunk_id": "0_raw",
+      "duration": 0.703,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/fda30f7d-f4d0-48e8-a551-ae78031cbd03_raw.wav",
+      "text": "Ineos",
+      "speaker": "client",
+      "call_id": "c93130e9-54c1-4772-af66-5b6b13dce145",
+      "chunk_id": "0_raw",
+      "duration": 0.981625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cc48dc06-f8ef-4bc6-9091-d6d6c12c10c7_raw.wav",
+      "text": "Infiniti",
+      "speaker": "client",
+      "call_id": "d7401f29-eafd-4580-82fc-44486542dd34",
+      "chunk_id": "0_raw",
+      "duration": 1.028,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cc48dc06-f8ef-4bc6-9091-d6d6c12c10c7_aug.wav",
+      "text": "Infiniti",
+      "speaker": "client",
+      "call_id": "d7401f29-eafd-4580-82fc-44486542dd34",
+      "chunk_id": "0_aug",
+      "duration": 0.67225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3a9229ea-77ec-462a-a34d-b5cfc94e9745_raw.wav",
+      "text": "KTM",
+      "speaker": "client",
+      "call_id": "123c1838-2498-45bd-957d-50941da27396",
+      "chunk_id": "0_raw",
+      "duration": 0.6565,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/3a9229ea-77ec-462a-a34d-b5cfc94e9745_aug.wav",
+      "text": "KTM",
+      "speaker": "client",
+      "call_id": "123c1838-2498-45bd-957d-50941da27396",
+      "chunk_id": "0_aug",
+      "duration": 0.41475,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/452740a5-2dc5-437f-a00d-102581d02a45_raw.wav",
+      "text": "Lamborghini",
+      "speaker": "client",
+      "call_id": "5841a7d0-a31c-45c4-b5cd-54073815dd4e",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/452740a5-2dc5-437f-a00d-102581d02a45_aug.wav",
+      "text": "Lamborghini",
+      "speaker": "client",
+      "call_id": "5841a7d0-a31c-45c4-b5cd-54073815dd4e",
+      "chunk_id": "0_aug",
+      "duration": 1.13175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/7b294691-e0a6-47e9-8058-6616def926b5_raw.wav",
+      "text": "Lancia",
+      "speaker": "client",
+      "call_id": "ae5d1163-99df-40e7-873c-ef6bcc87b75e",
+      "chunk_id": "0_raw",
+      "duration": 0.610125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e52948e9-af20-4e5b-baca-ec699bdff7a7_raw.wav",
+      "text": "Leap Motors",
+      "speaker": "client",
+      "call_id": "bfc4449d-73df-43af-a9bc-90f0f76d46eb",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e52948e9-af20-4e5b-baca-ec699bdff7a7_aug.wav",
+      "text": "Leap Motors",
+      "speaker": "client",
+      "call_id": "bfc4449d-73df-43af-a9bc-90f0f76d46eb",
+      "chunk_id": "0_aug",
+      "duration": 0.868875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/0659545c-e389-4941-84a6-93fd2c5b4ee6_raw.wav",
+      "text": "Ligier",
+      "speaker": "client",
+      "call_id": "20e82f67-e10c-4a3b-8847-b84b3800a188",
+      "chunk_id": "0_raw",
+      "duration": 0.84225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cff41f67-2740-4aab-af22-bc35326c3c21_raw.wav",
+      "text": "Lotus",
+      "speaker": "client",
+      "call_id": "466a6b6c-5dd5-4e29-a99b-65dfa2936f75",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/cff41f67-2740-4aab-af22-bc35326c3c21_aug.wav",
+      "text": "Lotus",
+      "speaker": "client",
+      "call_id": "466a6b6c-5dd5-4e29-a99b-65dfa2936f75",
+      "chunk_id": "0_aug",
+      "duration": 1.011375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/887f4c55-ffd0-4a01-be4d-b03287e275c4_raw.wav",
+      "text": "Lynk & Co",
+      "speaker": "client",
+      "call_id": "56b39862-99a0-4e50-92cb-aba27dd77851",
+      "chunk_id": "0_raw",
+      "duration": 2.142625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/887f4c55-ffd0-4a01-be4d-b03287e275c4_aug.wav",
+      "text": "Lynk & Co",
+      "speaker": "client",
+      "call_id": "56b39862-99a0-4e50-92cb-aba27dd77851",
+      "chunk_id": "0_aug",
+      "duration": 1.675625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/7325a888-01a5-4c91-a8f6-a45743bf7980_raw.wav",
+      "text": "MG",
+      "speaker": "client",
+      "call_id": "fb1cd383-2cac-40a0-9cc5-18d04a17be17",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/7325a888-01a5-4c91-a8f6-a45743bf7980_aug.wav",
+      "text": "MG",
+      "speaker": "client",
+      "call_id": "fb1cd383-2cac-40a0-9cc5-18d04a17be17",
+      "chunk_id": "0_aug",
+      "duration": 0.7785,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/e196363b-7c86-4301-96cd-829ec0997dea_raw.wav",
+      "text": "Maserati",
+      "speaker": "client",
+      "call_id": "50de3659-0afc-43dc-8882-948be0145273",
+      "chunk_id": "0_raw",
+      "duration": 1.028,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/6c72c055-6047-4cb4-8cff-6804e597c782_raw.wav",
+      "text": "Mazda",
+      "speaker": "client",
+      "call_id": "3247bf58-a3d7-4528-975c-80522e372a30",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/fa6e84ad-4d0b-4ae0-9927-580e931e3496_raw.wav",
+      "text": "McLaren",
+      "speaker": "client",
+      "call_id": "943e02cb-f12f-4ffc-a465-99135bf7e8e3",
+      "chunk_id": "0_raw",
+      "duration": 0.51725,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/da56b0c7-ea80-4e94-9baa-9e8d5e68d2ff_raw.wav",
+      "text": "Opel",
+      "speaker": "client",
+      "call_id": "b9a1df13-6bd1-41b4-9236-c1ce8352a6d1",
+      "chunk_id": "0_raw",
+      "duration": 0.84225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/da56b0c7-ea80-4e94-9baa-9e8d5e68d2ff_aug.wav",
+      "text": "Opel",
+      "speaker": "client",
+      "call_id": "b9a1df13-6bd1-41b4-9236-c1ce8352a6d1",
+      "chunk_id": "0_aug",
+      "duration": 0.676,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/208b2695-2a90-4768-a246-b236b751d302_raw.wav",
+      "text": "Piaggio",
+      "speaker": "client",
+      "call_id": "2a4099fc-23fc-44f3-ba06-141237c3444b",
+      "chunk_id": "0_raw",
+      "duration": 0.610125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/208b2695-2a90-4768-a246-b236b751d302_aug.wav",
+      "text": "Piaggio",
+      "speaker": "client",
+      "call_id": "2a4099fc-23fc-44f3-ba06-141237c3444b",
+      "chunk_id": "0_aug",
+      "duration": 0.38175,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/d2195b67-6a84-4bdf-acb5-71eb5eab92ac_raw.wav",
+      "text": "Peugeot",
+      "speaker": "client",
+      "call_id": "5233d366-f219-4ecb-940e-211a43d0472e",
+      "chunk_id": "0_raw",
+      "duration": 0.563625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/2bc83f95-1809-420d-aaa1-d5357399cfcb_raw.wav",
+      "text": "Pontiac",
+      "speaker": "client",
+      "call_id": "c46b3477-aa07-4f78-bce5-f2020aab4e5b",
+      "chunk_id": "0_raw",
+      "duration": 0.88875,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9c385272-8b7d-4981-9867-41081d5a3fca_raw.wav",
+      "text": "Porsche",
+      "speaker": "client",
+      "call_id": "68c7bac8-981b-4ca0-8a74-c8d74490bdc9",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9c2843e2-e6ff-4089-ae9a-a13660480c14_raw.wav",
+      "text": "RAM",
+      "speaker": "client",
+      "call_id": "d7a47321-1515-48a3-b6a4-ccb69d2c70e4",
+      "chunk_id": "0_raw",
+      "duration": 0.84225,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/246f326d-caeb-4844-a7d4-05e1629c7965_raw.wav",
+      "text": "Renault",
+      "speaker": "client",
+      "call_id": "80c79330-3ef2-431a-b108-104959ca5e1f",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/804d847c-a7e2-40bd-bab6-c873a38e5b23_raw.wav",
+      "text": "Rolls-Royce",
+      "speaker": "client",
+      "call_id": "4fd15995-503e-4794-ac67-746af2e4509d",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/804d847c-a7e2-40bd-bab6-c873a38e5b23_aug.wav",
+      "text": "Rolls-Royce",
+      "speaker": "client",
+      "call_id": "4fd15995-503e-4794-ac67-746af2e4509d",
+      "chunk_id": "0_aug",
+      "duration": 0.802125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/a8e8331f-10a1-4868-954e-269f80d24a99_raw.wav",
+      "text": "Rover",
+      "speaker": "client",
+      "call_id": "62f58054-3eb3-4ea3-ba2d-dd156453ccac",
+      "chunk_id": "0_raw",
+      "duration": 0.749375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9459ea59-25ac-43e5-aa5b-df87dc5af3d5_raw.wav",
+      "text": "Saab",
+      "speaker": "client",
+      "call_id": "222f1753-56e2-47ed-b6f6-cf36444f081b",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/9459ea59-25ac-43e5-aa5b-df87dc5af3d5_aug.wav",
+      "text": "Saab",
+      "speaker": "client",
+      "call_id": "222f1753-56e2-47ed-b6f6-cf36444f081b",
+      "chunk_id": "0_aug",
+      "duration": 0.791,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/4ec9e8fa-308b-4036-b3cf-663cabfce102_raw.wav",
+      "text": "Shelby",
+      "speaker": "client",
+      "call_id": "16beb882-f782-481f-8277-625ca01f72b7",
+      "chunk_id": "0_raw",
+      "duration": 0.610125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/4ec9e8fa-308b-4036-b3cf-663cabfce102_aug.wav",
+      "text": "Shelby",
+      "speaker": "client",
+      "call_id": "16beb882-f782-481f-8277-625ca01f72b7",
+      "chunk_id": "0_aug",
+      "duration": 0.388375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/73a75885-79a1-4aa9-89c4-f6d36e6af9b9_raw.wav",
+      "text": "Subaru",
+      "speaker": "client",
+      "call_id": "2207ce9d-1a67-4032-9945-f312809fdf59",
+      "chunk_id": "0_raw",
+      "duration": 0.51725,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/1cbb167c-1b41-4d43-bc47-9cc69eb5a039_raw.wav",
+      "text": "Toyota",
+      "speaker": "client",
+      "call_id": "7f27bb48-2895-46df-afa0-128da5970bfc",
+      "chunk_id": "0_raw",
+      "duration": 2.00325,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/1cbb167c-1b41-4d43-bc47-9cc69eb5a039_aug.wav",
+      "text": "Toyota",
+      "speaker": "client",
+      "call_id": "7f27bb48-2895-46df-afa0-128da5970bfc",
+      "chunk_id": "0_aug",
+      "duration": 1.762625,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/ff099044-0713-42e6-ae94-38e0f7e55ae3_raw.wav",
+      "text": "TRI-UMPH",
+      "speaker": "client",
+      "call_id": "1d795c51-b31f-4015-ab24-99657913e16d",
+      "chunk_id": "0_raw",
+      "duration": 1.4925,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/ff099044-0713-42e6-ae94-38e0f7e55ae3_aug.wav",
+      "text": "TRI-UMPH",
+      "speaker": "client",
+      "call_id": "1d795c51-b31f-4015-ab24-99657913e16d",
+      "chunk_id": "0_aug",
+      "duration": 1.273375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/28dce7ef-4da3-4596-8358-8e9a00048545_raw.wav",
+      "text": "VES-PA",
+      "speaker": "client",
+      "call_id": "3afa77dc-7ed7-424d-aabe-ae2736cade11",
+      "chunk_id": "0_raw",
+      "duration": 2.096125,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/28dce7ef-4da3-4596-8358-8e9a00048545_aug.wav",
+      "text": "VES-PA",
+      "speaker": "client",
+      "call_id": "3afa77dc-7ed7-424d-aabe-ae2736cade11",
+      "chunk_id": "0_aug",
+      "duration": 1.36475,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/16e9b8f4-4b63-455a-9e3f-cde6adcd2b73_raw.wav",
+      "text": "VOLKS-WA-GEN",
+      "speaker": "client",
+      "call_id": "7125b60a-cf9b-48e8-9240-89038fbc86c0",
+      "chunk_id": "0_raw",
+      "duration": 3.907375,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/16e9b8f4-4b63-455a-9e3f-cde6adcd2b73_aug.wav",
+      "text": "VOLKS-WA-GEN",
+      "speaker": "client",
+      "call_id": "7125b60a-cf9b-48e8-9240-89038fbc86c0",
+      "chunk_id": "0_aug",
+      "duration": 3.13,
+      "category": "Identification Véhicule & Jargon Auto"
+    },
+    {
+      "audio_path": "Audio/4c5069db-74e2-4f8c-a080-c315244284be_raw.wav",
+      "text": "T comme Tigre, Y comme Yacht, 4, Z comme Zèbre, 9, W comme Wagon, 2, N comme Nord.",
+      "speaker": "client",
+      "call_id": "67803f97-0e30-4832-a6cc-05e0fcef4be8",
+      "chunk_id": "0_raw",
+      "duration": 9.384,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/4c5069db-74e2-4f8c-a080-c315244284be_aug.wav",
+      "text": "T comme Tigre, Y comme Yacht, 4, Z comme Zèbre, 9, W comme Wagon, 2, N comme Nord.",
+      "speaker": "client",
+      "call_id": "67803f97-0e30-4832-a6cc-05e0fcef4be8",
+      "chunk_id": "0_aug",
+      "duration": 8.260125,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/5b33118b-3c58-4174-929e-21ebfe43c67d_raw.wav",
+      "text": "Plaque: W, X, un, six, sept, Y, Z; Nom: B, L, A, N, C; VIN: JY trois, K comme Kilo M comme Maverick, neuf T cinq.",
+      "speaker": "client",
+      "call_id": "6d488b01-d340-446a-8928-11bf3e4872b8",
+      "chunk_id": "0_raw",
+      "duration": 12.984,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/a8a90ffa-2461-4e82-8e43-4fb7aba4be62_raw.wav",
+      "text": "Plaque: Z, K, six, huit, B, Y, Nom: H, Y, D, E, X, VIN: un, neuf, J, W, trois, V, sept, R comme Roger, H, N.",
+      "speaker": "client",
+      "call_id": "59f4c936-f2da-4aa2-8bff-41d6a83d1fc6",
+      "chunk_id": "0_raw",
+      "duration": 12.264,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/44324184-2caa-44cc-a4c3-3e9bcbc18021_raw.wav",
+      "text": "Plaque Z, W, huit, quatre, sept, X, Y; nom: Q, U, I, L, B, E, C; VIN: P comme Paris, Z comme Zèbre, 9, J comme Jouet, 6, V comme Vélo.",
+      "speaker": "client",
+      "call_id": "9da53a6d-2934-48c8-a995-d9a492d78e48",
+      "chunk_id": "0_raw",
+      "duration": 17.304,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/44324184-2caa-44cc-a4c3-3e9bcbc18021_aug.wav",
+      "text": "Plaque Z, W, huit, quatre, sept, X, Y; nom: Q, U, I, L, B, E, C; VIN: P comme Paris, Z comme Zèbre, 9, J comme Jouet, 6, V comme Vélo.",
+      "speaker": "client",
+      "call_id": "9da53a6d-2934-48c8-a995-d9a492d78e48",
+      "chunk_id": "0_aug",
+      "duration": 12.8645,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/44b6f7bd-bbd3-4eb1-a63d-d3e422626e86_raw.wav",
+      "text": "Plaque W, X, trois, quatre, Y, Z, nom G, A, R, C, I, A, VIN cinq J comme Jacques, trois Q comme Québec, zéro Z comme Zèbre.",
+      "speaker": "client",
+      "call_id": "c1d41c42-4e13-4d4f-af53-20c179019330",
+      "chunk_id": "0_raw",
+      "duration": 21.384,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/44b6f7bd-bbd3-4eb1-a63d-d3e422626e86_aug.wav",
+      "text": "Plaque W, X, trois, quatre, Y, Z, nom G, A, R, C, I, A, VIN cinq J comme Jacques, trois Q comme Québec, zéro Z comme Zèbre.",
+      "speaker": "client",
+      "call_id": "c1d41c42-4e13-4d4f-af53-20c179019330",
+      "chunk_id": "0_aug",
+      "duration": 19.41508333333333,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/fa368c4d-490a-4d42-934f-0670d04ddc0e_raw.wav",
+      "text": "Plaque X, Y, sept, huit, neuf, Z, W, nom Z, E, B, U, L, O, N, VIN A, B, C, douze, neuf, Y, K, trente, J, W, X comme Xylophone.",
+      "speaker": "client",
+      "call_id": "6499a29d-9c25-44d6-a578-433569f4308b",
+      "chunk_id": "0_raw",
+      "duration": 13.968,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/87b1d088-c921-4908-9a85-e382b2ee7e1f_raw.wav",
+      "text": "Plaque : W, X, Y, trois, quatre, Z, A, nom : Z, E, B, R, A, VIN : G34-K67-P90, en épelant : G comme Gilles, 890 S comme Sam, R comme Romain.",
+      "speaker": "client",
+      "call_id": "7867cb2d-4b10-4e11-b0a0-d939cd78d127",
+      "chunk_id": "0_raw",
+      "duration": 13.296,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/87b1d088-c921-4908-9a85-e382b2ee7e1f_aug.wav",
+      "text": "Plaque : W, X, Y, trois, quatre, Z, A, nom : Z, E, B, R, A, VIN : G34-K67-P90, en épelant : G comme Gilles, 890 S comme Sam, R comme Romain.",
+      "speaker": "client",
+      "call_id": "7867cb2d-4b10-4e11-b0a0-d939cd78d127",
+      "chunk_id": "0_aug",
+      "duration": 9.0585,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/d6cb77aa-fc4c-492c-9937-1017f1270d30_raw.wav",
+      "text": "Ma plaque est Z, Y, sept, huit, W, X et mon nom est B, R, U, N, O, puis pour le VIN : X, Y, Z, trois, quatre, A, B comme Benoît.",
+      "speaker": "client",
+      "call_id": "787128de-467c-4edc-a09e-a58610f194d6",
+      "chunk_id": "0_raw",
+      "duration": 12.024,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/d6cb77aa-fc4c-492c-9937-1017f1270d30_aug.wav",
+      "text": "Ma plaque est Z, Y, sept, huit, W, X et mon nom est B, R, U, N, O, puis pour le VIN : X, Y, Z, trois, quatre, A, B comme Benoît.",
+      "speaker": "client",
+      "call_id": "787128de-467c-4edc-a09e-a58610f194d6",
+      "chunk_id": "0_aug",
+      "duration": 9.290041666666667,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/2a69bbae-d2f0-466c-aa0c-a7b513f740fb_raw.wav",
+      "text": "Plaque: X, Y, Z, quatre, cinq, six, W, E, nom: B, A, C, H, E, L, I, E, R, VIN: J comme Jasmin, 123, K comme Kangourou, 789, L comme Lumière, M, 456.",
+      "speaker": "client",
+      "call_id": "3f688185-ad46-4f5a-80c6-bf4e59a6176f",
+      "chunk_id": "0_raw",
+      "duration": 26.928,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/2a69bbae-d2f0-466c-aa0c-a7b513f740fb_aug.wav",
+      "text": "Plaque: X, Y, Z, quatre, cinq, six, W, E, nom: B, A, C, H, E, L, I, E, R, VIN: J comme Jasmin, 123, K comme Kangourou, 789, L comme Lumière, M, 456.",
+      "speaker": "client",
+      "call_id": "3f688185-ad46-4f5a-80c6-bf4e59a6176f",
+      "chunk_id": "0_aug",
+      "duration": 18.414125,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/dbd060f6-3b18-455a-8da8-416e4a4aff27_raw.wav",
+      "text": "Plaque: W, X, un, quatre, cinq, Z, nom: Z, A, P, P, Y, VIN: trois A, Y comme Yacht, neuf G, quatre, L, deux, B comme Bateau.",
+      "speaker": "client",
+      "call_id": "5994cb4b-0998-42d8-8956-27f2445c3daf",
+      "chunk_id": "0_raw",
+      "duration": 19.848,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/dbd060f6-3b18-455a-8da8-416e4a4aff27_aug.wav",
+      "text": "Plaque: W, X, un, quatre, cinq, Z, nom: Z, A, P, P, Y, VIN: trois A, Y comme Yacht, neuf G, quatre, L, deux, B comme Bateau.",
+      "speaker": "client",
+      "call_id": "5994cb4b-0998-42d8-8956-27f2445c3daf",
+      "chunk_id": "0_aug",
+      "duration": 13.372083333333334,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/5c081525-8e32-49f2-bec0-fe481368489f_raw.wav",
+      "text": "Plaque : X, Y, un, deux, trois, Z, G ; nom : W, A, L, T, E, R ; VIN : cinq, six, Y comme Yak, sept, huit ; E comme Éléphant, R comme Rayon, U comme Ultraviolet, Zéro.",
+      "speaker": "client",
+      "call_id": "d51d353a-8c6b-4adc-b3e1-d315752fb1f3",
+      "chunk_id": "0_raw",
+      "duration": 23.616,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/5c081525-8e32-49f2-bec0-fe481368489f_aug.wav",
+      "text": "Plaque : X, Y, un, deux, trois, Z, G ; nom : W, A, L, T, E, R ; VIN : cinq, six, Y comme Yak, sept, huit ; E comme Éléphant, R comme Rayon, U comme Ultraviolet, Zéro.",
+      "speaker": "client",
+      "call_id": "d51d353a-8c6b-4adc-b3e1-d315752fb1f3",
+      "chunk_id": "0_aug",
+      "duration": 15.239458333333333,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/d27767d9-469f-4f75-892f-87f1c2393cf9_raw.wav",
+      "text": "Plaque : W, X, 9, Y, 7, Z, Q, VIN : 1HGB, X comme Xylophone, JGLM, Y comme Yacht, NTR0.",
+      "speaker": "client",
+      "call_id": "bb2f088a-e83e-4a60-a21f-1d49ed8885d8",
+      "chunk_id": "0_raw",
+      "duration": 13.968,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/2a2d26d1-34c9-4404-97b3-96f2c0f34711_raw.wav",
+      "text": "W, X, trois, Y, Z, V, voiture, I, N, un, deux, G, X, P.",
+      "speaker": "client",
+      "call_id": "6435c997-d0d2-40e6-a332-a31d49349bc3",
+      "chunk_id": "0_raw",
+      "duration": 10.056,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/2a2d26d1-34c9-4404-97b3-96f2c0f34711_aug.wav",
+      "text": "W, X, trois, Y, Z, V, voiture, I, N, un, deux, G, X, P.",
+      "speaker": "client",
+      "call_id": "6435c997-d0d2-40e6-a332-a31d49349bc3",
+      "chunk_id": "0_aug",
+      "duration": 6.648541666666667,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/aa18dc0b-b0a1-4c74-a4ea-19a7a66825c6_raw.wav",
+      "text": "Plaque : Z, X, sept, huit, Y, U, W; Nom : B, R, Y, C, E; VIN : trois K, L, cinq M, N, O, Z, R.",
+      "speaker": "client",
+      "call_id": "c0ebd7f6-a853-45bc-b830-0c1ec18ed0b5",
+      "chunk_id": "0_raw",
+      "duration": 12.144,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/aa18dc0b-b0a1-4c74-a4ea-19a7a66825c6_aug.wav",
+      "text": "Plaque : Z, X, sept, huit, Y, U, W; Nom : B, R, Y, C, E; VIN : trois K, L, cinq M, N, O, Z, R.",
+      "speaker": "client",
+      "call_id": "c0ebd7f6-a853-45bc-b830-0c1ec18ed0b5",
+      "chunk_id": "0_aug",
+      "duration": 8.006416666666667,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/a947d421-e5c3-427c-b033-31952f06055e_raw.wav",
+      "text": "Plaque : E, X, deux, sept, M, Y, trois, Z ; Nom : W, I, L, S, O, N ; VIN : cinq, T comme Taxi, huit, Q comme Québec, douze, Z comme Zèbre.",
+      "speaker": "client",
+      "call_id": "247fd48a-0662-4ac7-984f-a0ab16552c14",
+      "chunk_id": "0_raw",
+      "duration": 19.248,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/015cc3d9-e4b7-4cb1-bc76-b19dc6ee1774_raw.wav",
+      "text": "Plaque: W, Y, trois, cinq, Z, K, H; Nom: Z, E, L, D, A; VIN: A, deux, F, G, quatre, huit, L, T; code: Q, huit, X comme Xylophone.",
+      "speaker": "client",
+      "call_id": "b32558f5-8dcf-431f-bf23-9cf651e7c4ff",
+      "chunk_id": "0_raw",
+      "duration": 19.656,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/6ac28fd1-1b42-432f-8586-83bd7ce3ca76_raw.wav",
+      "text": "Plaque Y, Z, six, X, W, R, J, nom L, A, M, B, E, R, T, VIN trois, quatre, A, P, B, huit, W, T, un, E, Z, phrase X comme Xylophone, G comme Guitare, 219 T comme Tigre, V comme Valse.",
+      "speaker": "client",
+      "call_id": "5d66da74-f76a-4df6-b482-b966d9172055",
+      "chunk_id": "0_raw",
+      "duration": 24.048,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/6ac28fd1-1b42-432f-8586-83bd7ce3ca76_aug.wav",
+      "text": "Plaque Y, Z, six, X, W, R, J, nom L, A, M, B, E, R, T, VIN trois, quatre, A, P, B, huit, W, T, un, E, Z, phrase X comme Xylophone, G comme Guitare, 219 T comme Tigre, V comme Valse.",
+      "speaker": "client",
+      "call_id": "5d66da74-f76a-4df6-b482-b966d9172055",
+      "chunk_id": "0_aug",
+      "duration": 15.503833333333333,
+      "category": "Épellation Plaques, Lettres et Phrases"
+    },
+    {
+      "audio_path": "Audio/d60af30f-85fb-472b-b029-4451a5110ba9_raw.wav",
+      "text": "B, C, L, V, A, 3.",
+      "speaker": "client",
+      "call_id": "e7de6021-1cf3-4599-b31c-d822b50d20ee",
+      "chunk_id": "0_raw",
+      "duration": 2.544,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f9c10a0b-40c6-473e-95b7-94939cc6bdd7_raw.wav",
+      "text": "G, T, B, C, L, V, A, C, E, T, 1, W.",
+      "speaker": "client",
+      "call_id": "18980d11-22b2-452b-b39f-65d75eb69417",
+      "chunk_id": "0_raw",
+      "duration": 10.368,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f9c10a0b-40c6-473e-95b7-94939cc6bdd7_aug.wav",
+      "text": "G, T, B, C, L, V, A, C, E, T, 1, W.",
+      "speaker": "client",
+      "call_id": "18980d11-22b2-452b-b39f-65d75eb69417",
+      "chunk_id": "0_aug",
+      "duration": 7.303791666666666,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/fa21143a-c7bc-4e79-a7af-10bb78ed9181_raw.wav",
+      "text": "J, T, A, K, L, O, W.",
+      "speaker": "client",
+      "call_id": "8640262c-dfb8-4c2d-935f-203033daad8f",
+      "chunk_id": "0_raw",
+      "duration": 4.44,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/fa21143a-c7bc-4e79-a7af-10bb78ed9181_aug.wav",
+      "text": "J, T, A, K, L, O, W.",
+      "speaker": "client",
+      "call_id": "8640262c-dfb8-4c2d-935f-203033daad8f",
+      "chunk_id": "0_aug",
+      "duration": 3.300125,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/16f9fd50-5e47-41e2-875d-fbf70ce628c8_raw.wav",
+      "text": "LV, G, R, O.",
+      "speaker": "client",
+      "call_id": "cfbf2b7b-6ebc-4522-a125-08a3cfab1ea8",
+      "chunk_id": "0_raw",
+      "duration": 3.696,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/19e4f971-c1ca-483c-a616-7a5c350fee75_raw.wav",
+      "text": "L, V, C, R, A, 1",
+      "speaker": "client",
+      "call_id": "82ddf224-e22f-4e97-8753-9741dd15db4c",
+      "chunk_id": "0_raw",
+      "duration": 4.536,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/82bf61ce-66b3-4152-b5d3-789fe5176a8c_raw.wav",
+      "text": "R, A, C, H, E, 1.",
+      "speaker": "client",
+      "call_id": "fff4c10f-536b-4c0b-bdbc-bbed37d6581f",
+      "chunk_id": "0_raw",
+      "duration": 3.888,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/58fbb58b-7973-4ba0-95fd-3c6ac96e647f_raw.wav",
+      "text": "C, B, L, V, T, E, 3, R",
+      "speaker": "client",
+      "call_id": "9c788bc5-eafe-4f05-a3d6-c6063f18de9e",
+      "chunk_id": "0_raw",
+      "duration": 8.016,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/fd783949-5c47-4e77-8485-fedc88f7f0bb_raw.wav",
+      "text": "S, C, A, L.",
+      "speaker": "client",
+      "call_id": "e256b4a3-4963-4c9b-a469-9f9294fcb392",
+      "chunk_id": "0_raw",
+      "duration": 4.176,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/9c548fc1-0eae-4b95-810e-ecd1a9ca7fb4_raw.wav",
+      "text": "L, V, C, H, E, 3, O",
+      "speaker": "client",
+      "call_id": "846fa37b-b266-40e0-91dc-618e626c6d94",
+      "chunk_id": "0_raw",
+      "duration": 1.704,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/9c548fc1-0eae-4b95-810e-ecd1a9ca7fb4_aug.wav",
+      "text": "L, V, C, H, E, 3, O",
+      "speaker": "client",
+      "call_id": "846fa37b-b266-40e0-91dc-618e626c6d94",
+      "chunk_id": "0_aug",
+      "duration": 1.1047083333333334,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/7f5f67bd-2562-4290-97bd-7b449c5a714e_raw.wav",
+      "text": "C, A, R, L, O, T, B, S, V",
+      "speaker": "client",
+      "call_id": "83276980-fa55-4596-b945-845eb581111f",
+      "chunk_id": "0_raw",
+      "duration": 2.544,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f7df00b1-9125-4d7d-a590-fe71b62409ea_raw.wav",
+      "text": "B, E, C, L, A, O, T, 3.",
+      "speaker": "client",
+      "call_id": "f38ae80c-67b3-4de9-a6e6-7d957cc6fe70",
+      "chunk_id": "0_raw",
+      "duration": 5.136,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f7df00b1-9125-4d7d-a590-fe71b62409ea_aug.wav",
+      "text": "B, E, C, L, A, O, T, 3.",
+      "speaker": "client",
+      "call_id": "f38ae80c-67b3-4de9-a6e6-7d957cc6fe70",
+      "chunk_id": "0_aug",
+      "duration": 3.561958333333333,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f0abe5e1-a9ca-4c99-8b23-f433e11df914_raw.wav",
+      "text": "LV, A, C, 3, S, R",
+      "speaker": "client",
+      "call_id": "5ca217f7-c67f-4a1c-acd0-e0a098ac8070",
+      "chunk_id": "0_raw",
+      "duration": 7.056,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/f0abe5e1-a9ca-4c99-8b23-f433e11df914_aug.wav",
+      "text": "LV, A, C, 3, S, R",
+      "speaker": "client",
+      "call_id": "5ca217f7-c67f-4a1c-acd0-e0a098ac8070",
+      "chunk_id": "0_aug",
+      "duration": 5.110625,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/e1d6deef-1950-4059-af1f-105c7499d18a_raw.wav",
+      "text": "E, 1, V, A, R, 3, H, E, D, L",
+      "speaker": "client",
+      "call_id": "1fc2f8cc-f88e-4876-b378-cd0be280f7de",
+      "chunk_id": "0_raw",
+      "duration": 3.768,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/e1d6deef-1950-4059-af1f-105c7499d18a_aug.wav",
+      "text": "E, 1, V, A, R, 3, H, E, D, L",
+      "speaker": "client",
+      "call_id": "1fc2f8cc-f88e-4876-b378-cd0be280f7de",
+      "chunk_id": "0_aug",
+      "duration": 2.5566666666666666,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/cdddc4ef-819c-428f-b024-9a3362baa262_raw.wav",
+      "text": "C, L, A, O, 4",
+      "speaker": "client",
+      "call_id": "62aeeee5-1fa2-4387-b010-4e31ac428a57",
+      "chunk_id": "0_raw",
+      "duration": 2.976,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/cdddc4ef-819c-428f-b024-9a3362baa262_aug.wav",
+      "text": "C, L, A, O, 4",
+      "speaker": "client",
+      "call_id": "62aeeee5-1fa2-4387-b010-4e31ac428a57",
+      "chunk_id": "0_aug",
+      "duration": 2.4482083333333335,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/e61a6f1c-68ca-4683-b65e-0b200c8968ae_raw.wav",
+      "text": "H, T, L, V, Z.",
+      "speaker": "client",
+      "call_id": "c6310a8b-81cb-4a7b-a49c-1d0674565285",
+      "chunk_id": "0_raw",
+      "duration": 4.824,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/e61a6f1c-68ca-4683-b65e-0b200c8968ae_aug.wav",
+      "text": "H, T, L, V, Z.",
+      "speaker": "client",
+      "call_id": "c6310a8b-81cb-4a7b-a49c-1d0674565285",
+      "chunk_id": "0_aug",
+      "duration": 3.8242083333333334,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/ed18bc38-5e91-4143-b4f5-b757ab377bf4_raw.wav",
+      "text": "L, V, C, A, J, E.",
+      "speaker": "client",
+      "call_id": "742f23c8-83a2-4d27-af5d-20c08b00a74d",
+      "chunk_id": "0_raw",
+      "duration": 4.104,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/ed18bc38-5e91-4143-b4f5-b757ab377bf4_aug.wav",
+      "text": "L, V, C, A, J, E.",
+      "speaker": "client",
+      "call_id": "742f23c8-83a2-4d27-af5d-20c08b00a74d",
+      "chunk_id": "0_aug",
+      "duration": 3.0185416666666667,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/db7c01e4-2f0c-4086-bede-7cb63f1af37f_raw.wav",
+      "text": "C, H, E, V, E, O, 8.",
+      "speaker": "client",
+      "call_id": "203aee78-1e70-40cb-aca1-d886f70e7860",
+      "chunk_id": "0_raw",
+      "duration": 4.896,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/db7c01e4-2f0c-4086-bede-7cb63f1af37f_aug.wav",
+      "text": "C, H, E, V, E, O, 8.",
+      "speaker": "client",
+      "call_id": "203aee78-1e70-40cb-aca1-d886f70e7860",
+      "chunk_id": "0_aug",
+      "duration": 3.33725,
+      "category": "Corrections Confusions Plaques"
+    },
+    {
+      "audio_path": "Audio/681b341f-aa84-4a60-9b42-aba736a842e4_raw.wav",
+      "text": "\"Oui, bonjour, j'aurais besoin de vérifier l'accélérateur, il semble y avoir un léger décalage quand j'appuie dessus.\"",
+      "speaker": "client",
+      "call_id": "35b3c745-30a9-4e98-8a88-c749167a18a7",
+      "chunk_id": "0_raw",
+      "duration": 9.5265,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/681b341f-aa84-4a60-9b42-aba736a842e4_aug.wav",
+      "text": "\"Oui, bonjour, j'aurais besoin de vérifier l'accélérateur, il semble y avoir un léger décalage quand j'appuie dessus.\"",
+      "speaker": "client",
+      "call_id": "35b3c745-30a9-4e98-8a88-c749167a18a7",
+      "chunk_id": "0_aug",
+      "duration": 5.992875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/ca552c23-fb34-430c-a181-9fca0fd558c7_raw.wav",
+      "text": "\"Bonjour, je crois que l'aile arrière de ma voiture a été endommagée pendant que j'étais garé.\"",
+      "speaker": "client",
+      "call_id": "497b96a8-80f9-4322-a68f-a86ea3b177d4",
+      "chunk_id": "0_raw",
+      "duration": 5.254125,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/ca552c23-fb34-430c-a181-9fca0fd558c7_aug.wav",
+      "text": "\"Bonjour, je crois que l'aile arrière de ma voiture a été endommagée pendant que j'étais garé.\"",
+      "speaker": "client",
+      "call_id": "497b96a8-80f9-4322-a68f-a86ea3b177d4",
+      "chunk_id": "0_aug",
+      "duration": 3.784625,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/d3b83fc8-495e-491d-b7ad-261697f34c79_raw.wav",
+      "text": "\"Je voulais savoir combien coûterait le remplacement de l'aile avant sur ma berline.\"",
+      "speaker": "client",
+      "call_id": "3ba70b54-f3b4-4c9f-9353-ee4958cb442f",
+      "chunk_id": "0_raw",
+      "duration": 3.025,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/91d6e573-2674-4248-9a2d-9abe19268bac_raw.wav",
+      "text": "\"Est-ce que vous avez l'allume-cigare compatible avec mon modèle de cabriolet?\"",
+      "speaker": "client",
+      "call_id": "90f56366-b12e-4291-9d40-724c579ce7ea",
+      "chunk_id": "0_raw",
+      "duration": 3.303625,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/91d6e573-2674-4248-9a2d-9abe19268bac_aug.wav",
+      "text": "\"Est-ce que vous avez l'allume-cigare compatible avec mon modèle de cabriolet?\"",
+      "speaker": "client",
+      "call_id": "90f56366-b12e-4291-9d40-724c579ce7ea",
+      "chunk_id": "0_aug",
+      "duration": 2.505375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/8871e39c-0cd3-47b7-832d-2fe16dae6986_raw.wav",
+      "text": "\"J'ai le sentiment que les amortisseurs de ma voiture doivent être remplacés.\"",
+      "speaker": "client",
+      "call_id": "9137eaf0-14bd-4482-a950-d8c7095a512d",
+      "chunk_id": "0_raw",
+      "duration": 3.768,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/0a21df39-2ed9-4ec5-83ae-bcc5d6888fba_raw.wav",
+      "text": "\"Est-ce que le siège arrière de cette berline est rabattable pour plus de rangement?\"",
+      "speaker": "client",
+      "call_id": "17ad57c8-bb30-4b2b-9a1e-668d2b717603",
+      "chunk_id": "0_raw",
+      "duration": 4.186,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/0a21df39-2ed9-4ec5-83ae-bcc5d6888fba_aug.wav",
+      "text": "\"Est-ce que le siège arrière de cette berline est rabattable pour plus de rangement?\"",
+      "speaker": "client",
+      "call_id": "17ad57c8-bb30-4b2b-9a1e-668d2b717603",
+      "chunk_id": "0_aug",
+      "duration": 3.604875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/e4d436a0-6c1f-4363-8fdd-27bdc7189ed6_raw.wav",
+      "text": "\"Excusez-moi, pouvez-vous vérifier si la batterie est encore sous garantie?\"",
+      "speaker": "client",
+      "call_id": "030596fb-1a90-4c83-b3be-918449644779",
+      "chunk_id": "0_raw",
+      "duration": 4.603875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/010002cc-d8f0-48b5-a1da-d6ed432eb39c_raw.wav",
+      "text": "\"J'ai un problème avec la boîte automatique qui ne passe pas bien les vitesses.\"",
+      "speaker": "client",
+      "call_id": "4aa35c86-89c3-46d5-a948-8346e13e8bf8",
+      "chunk_id": "0_raw",
+      "duration": 4.232375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/d3cf3b0b-8afe-43cc-9447-bd75384c414b_raw.wav",
+      "text": "\"Auriez-vous en stock un enjoliveur pour le châssis de mon cabriolet?\"",
+      "speaker": "client",
+      "call_id": "1d90a7f1-c833-4e19-b9bb-dd5eefeebc0e",
+      "chunk_id": "0_raw",
+      "duration": 3.025,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/d3cf3b0b-8afe-43cc-9447-bd75384c414b_aug.wav",
+      "text": "\"Auriez-vous en stock un enjoliveur pour le châssis de mon cabriolet?\"",
+      "speaker": "client",
+      "call_id": "1d90a7f1-c833-4e19-b9bb-dd5eefeebc0e",
+      "chunk_id": "0_aug",
+      "duration": 1.939875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/6aaa5c5e-ea4c-44da-8818-4bc51815a978_raw.wav",
+      "text": "\"Le capot de ma voiture a du mal à se fermer correctement, vous pouvez regarder ça?\"",
+      "speaker": "client",
+      "call_id": "faf7d69a-e771-495e-a9bf-3e4aec9d6019",
+      "chunk_id": "0_raw",
+      "duration": 4.32525,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/0a3326be-0838-4857-ab97-471e0617320a_raw.wav",
+      "text": "\"La carrosserie présente quelques rayures que je voudrais faire disparaître.\"",
+      "speaker": "client",
+      "call_id": "4ceea05f-1393-4513-9777-4005addda69b",
+      "chunk_id": "0_raw",
+      "duration": 4.650375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/0a3326be-0838-4857-ab97-471e0617320a_aug.wav",
+      "text": "\"La carrosserie présente quelques rayures que je voudrais faire disparaître.\"",
+      "speaker": "client",
+      "call_id": "4ceea05f-1393-4513-9777-4005addda69b",
+      "chunk_id": "0_aug",
+      "duration": 2.9125,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/9102eaf2-baf8-4494-8430-eff7bd0e415c_raw.wav",
+      "text": "\"Pouvez-vous me montrer comment ajuster la ceinture de sécurité, elle est un peu lâche.\"",
+      "speaker": "client",
+      "call_id": "e5d7fb97-09ef-48db-8be4-e6ee67c92dae",
+      "chunk_id": "0_raw",
+      "duration": 5.7185,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/9102eaf2-baf8-4494-8430-eff7bd0e415c_aug.wav",
+      "text": "\"Pouvez-vous me montrer comment ajuster la ceinture de sécurité, elle est un peu lâche.\"",
+      "speaker": "client",
+      "call_id": "e5d7fb97-09ef-48db-8be4-e6ee67c92dae",
+      "chunk_id": "0_aug",
+      "duration": 4.89175,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/c9975ba1-994a-4c22-af4f-8c7cd4aab14f_raw.wav",
+      "text": "\"Le châssis semble être un peu désaligné après cet incident récent.\"",
+      "speaker": "client",
+      "call_id": "025d58ae-da60-48ab-bbbc-43fddf3b2290",
+      "chunk_id": "0_raw",
+      "duration": 3.8145,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/c9975ba1-994a-4c22-af4f-8c7cd4aab14f_aug.wav",
+      "text": "\"Le châssis semble être un peu désaligné après cet incident récent.\"",
+      "speaker": "client",
+      "call_id": "025d58ae-da60-48ab-bbbc-43fddf3b2290",
+      "chunk_id": "0_aug",
+      "duration": 3.466875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/d52dc9d1-bef6-4ba2-ae7e-ade5a8d7ee3a_raw.wav",
+      "text": "\"Est-ce que le système de chauffage fonctionne bien dans toutes vos voitures d'occasion?\"",
+      "speaker": "client",
+      "call_id": "40bd1dd1-392c-46cb-b21a-d538ec985328",
+      "chunk_id": "0_raw",
+      "duration": 3.8145,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/d52dc9d1-bef6-4ba2-ae7e-ade5a8d7ee3a_aug.wav",
+      "text": "\"Est-ce que le système de chauffage fonctionne bien dans toutes vos voitures d'occasion?\"",
+      "speaker": "client",
+      "call_id": "40bd1dd1-392c-46cb-b21a-d538ec985328",
+      "chunk_id": "0_aug",
+      "duration": 3.191125,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/f947451d-1185-40e9-a07e-3cb8669071e9_raw.wav",
+      "text": "\"Il y avait beaucoup de circulation ce matin, et le clignotant de ma voiture s'est mis à clignoter rapidement.\"",
+      "speaker": "client",
+      "call_id": "65c85ffc-0c2f-4aaf-9321-852dc17955d9",
+      "chunk_id": "0_raw",
+      "duration": 5.439875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/f947451d-1185-40e9-a07e-3cb8669071e9_aug.wav",
+      "text": "\"Il y avait beaucoup de circulation ce matin, et le clignotant de ma voiture s'est mis à clignoter rapidement.\"",
+      "speaker": "client",
+      "call_id": "65c85ffc-0c2f-4aaf-9321-852dc17955d9",
+      "chunk_id": "0_aug",
+      "duration": 3.506375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/3231423f-cd41-42b2-9417-f6ddcc178235_raw.wav",
+      "text": "\"La climatisation ne semble pas assez refroidir l'intérieur, je pense qu'il y a une fuite.\"",
+      "speaker": "client",
+      "call_id": "54c284dd-2f59-42d7-95cf-6050afa0e533",
+      "chunk_id": "0_raw",
+      "duration": 4.1395,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/3231423f-cd41-42b2-9417-f6ddcc178235_aug.wav",
+      "text": "\"La climatisation ne semble pas assez refroidir l'intérieur, je pense qu'il y a une fuite.\"",
+      "speaker": "client",
+      "call_id": "54c284dd-2f59-42d7-95cf-6050afa0e533",
+      "chunk_id": "0_aug",
+      "duration": 3.08275,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/ed959751-ec1a-4b8d-8cc1-c5bc6ad45c3c_raw.wav",
+      "text": "\"Je crois que j'aurais besoin de plus de place, car le coffre de ma berline est toujours plein.\"",
+      "speaker": "client",
+      "call_id": "30032bf8-9c7b-4cf3-bd6a-f44b6af61a10",
+      "chunk_id": "0_raw",
+      "duration": 7.48325,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/bd96d2eb-55f5-4a64-8312-d80992b09efa_raw.wav",
+      "text": "\"Désolé, je suis en retard à cause d'un embouteillage terrible en ville.\"",
+      "speaker": "client",
+      "call_id": "5e56da33-7790-41f2-9014-853828e1d77e",
+      "chunk_id": "0_raw",
+      "duration": 3.117875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/86c216fe-e1ab-44b7-a87b-14920d543257_raw.wav",
+      "text": "\"Je dois remplacer l'embrayage car il ne fonctionne plus correctement.\"",
+      "speaker": "client",
+      "call_id": "bdf55475-f0ce-4d38-b6ca-97608eb5dd2c",
+      "chunk_id": "0_raw",
+      "duration": 4.78975,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/1d3cfa92-1b53-43ff-9a51-6505bfd06691_raw.wav",
+      "text": "\"Pourriez-vous vérifier si l'essuie-glace a besoin d'être changé?\"",
+      "speaker": "client",
+      "call_id": "e3fb4dac-ae15-4c6f-8a64-c1c96f905149",
+      "chunk_id": "0_raw",
+      "duration": 3.025,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/225d4fc4-6e1c-413d-b803-e9f750edaf54_raw.wav",
+      "text": "\"Je cherche un feu de détresse de remplacement pour ma voiture, est-ce que vous avez ça?\"",
+      "speaker": "client",
+      "call_id": "b8b1937c-286f-4e04-a450-41d24768630f",
+      "chunk_id": "0_raw",
+      "duration": 7.343875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/225d4fc4-6e1c-413d-b803-e9f750edaf54_aug.wav",
+      "text": "\"Je cherche un feu de détresse de remplacement pour ma voiture, est-ce que vous avez ça?\"",
+      "speaker": "client",
+      "call_id": "b8b1937c-286f-4e04-a450-41d24768630f",
+      "chunk_id": "0_aug",
+      "duration": 5.486625,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/e05682ea-da9a-4974-9288-df7d36fd387d_raw.wav",
+      "text": "\"Le frein à main semble être trop lâche, il faut le resserrer.\"",
+      "speaker": "client",
+      "call_id": "b6cb0145-25d6-4351-b8cb-c1a31edc735c",
+      "chunk_id": "0_raw",
+      "duration": 3.442875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/0c519c43-7565-4d14-a2e1-a4d166843685_raw.wav",
+      "text": "\"Le freinage n'est pas aussi réactif qu'il devrait être, pouvez-vous examiner cela?\"",
+      "speaker": "client",
+      "call_id": "0b387b37-00d5-4db8-b29b-40ded9ee988f",
+      "chunk_id": "0_raw",
+      "duration": 3.907375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/c06babed-8812-4ff2-82cc-fd97e6e2ecb7_raw.wav",
+      "text": "\"J'ai du mal à comprendre comment fonctionne le levier de vitesse sans embrayage sur la nouvelle boîte automatique.\"",
+      "speaker": "client",
+      "call_id": "4758d407-7a4e-4554-b0fa-1e066e1b147e",
+      "chunk_id": "0_raw",
+      "duration": 8.319125,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/bbed7fe5-47b5-4353-80d7-7d0adadea26a_raw.wav",
+      "text": "\"Je voudrais en savoir plus sur la garantie moteur pour les voitures d'occasion.\"",
+      "speaker": "client",
+      "call_id": "e1c6dbc2-687b-4244-9268-de8edb42c0d7",
+      "chunk_id": "0_raw",
+      "duration": 3.95375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/bbed7fe5-47b5-4353-80d7-7d0adadea26a_aug.wav",
+      "text": "\"Je voudrais en savoir plus sur la garantie moteur pour les voitures d'occasion.\"",
+      "speaker": "client",
+      "call_id": "e1c6dbc2-687b-4244-9268-de8edb42c0d7",
+      "chunk_id": "0_aug",
+      "duration": 2.588375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/4199db13-8429-4d0e-9bd8-27e399c5c8a6_raw.wav",
+      "text": "\"Mon pare-brise a une fissure, est-ce que vous offrez un service de remplacement?\"",
+      "speaker": "client",
+      "call_id": "62138df6-1312-418f-b559-6f5b968dda03",
+      "chunk_id": "0_raw",
+      "duration": 5.254125,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/be0014a2-67de-48d3-b19b-e2779e3e28a6_raw.wav",
+      "text": "\"Je voulais juste m'assurer que la boîte à gants a assez d'espace pour mes documents importants.\"",
+      "speaker": "client",
+      "call_id": "e74111d3-8fcd-43da-8e01-2439a1d7b9e6",
+      "chunk_id": "0_raw",
+      "duration": 5.48625,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/be0014a2-67de-48d3-b19b-e2779e3e28a6_aug.wav",
+      "text": "\"Je voulais juste m'assurer que la boîte à gants a assez d'espace pour mes documents importants.\"",
+      "speaker": "client",
+      "call_id": "e74111d3-8fcd-43da-8e01-2439a1d7b9e6",
+      "chunk_id": "0_aug",
+      "duration": 3.824625,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/8445b86f-e0f4-4d08-8550-70a4d375be35_raw.wav",
+      "text": "\"Est-ce que vous pourriez m'expliquer pourquoi ma voiture ne démarre pas alors que la batterie est neuve?\"",
+      "speaker": "client",
+      "call_id": "cc82f921-42d2-4ca4-950c-748709ff0614",
+      "chunk_id": "0_raw",
+      "duration": 7.01875,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/8445b86f-e0f4-4d08-8550-70a4d375be35_aug.wav",
+      "text": "\"Est-ce que vous pourriez m'expliquer pourquoi ma voiture ne démarre pas alors que la batterie est neuve?\"",
+      "speaker": "client",
+      "call_id": "cc82f921-42d2-4ca4-950c-748709ff0614",
+      "chunk_id": "0_aug",
+      "duration": 5.177375,
+      "category": "Dialogues Complet Client ↔ Garage"
+    },
+    {
+      "audio_path": "Audio/24f2353b-ff11-49f0-8a22-3981c8babf68_raw.wav",
+      "text": "Véhicule hybride Renault",
+      "speaker": "client",
+      "call_id": "697d711f-79d7-4355-a7c1-63fcfc092174",
+      "chunk_id": "0_raw",
+      "duration": 2.746375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/24f2353b-ff11-49f0-8a22-3981c8babf68_aug.wav",
+      "text": "Véhicule hybride Renault",
+      "speaker": "client",
+      "call_id": "697d711f-79d7-4355-a7c1-63fcfc092174",
+      "chunk_id": "0_aug",
+      "duration": 2.13175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/dac00fea-6f0d-4daa-87ab-58e797a7646d_raw.wav",
+      "text": "Turbo expert",
+      "speaker": "client",
+      "call_id": "70832d54-7c85-4a2e-9ece-a7e45ba0c1c2",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/3589175e-9775-41ec-b0e4-73d789a7a665_raw.wav",
+      "text": "Turbo diesel",
+      "speaker": "client",
+      "call_id": "f4b76665-dc41-4dbd-a4c6-3e5b681cdda1",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/3589175e-9775-41ec-b0e4-73d789a7a665_aug.wav",
+      "text": "Turbo diesel",
+      "speaker": "client",
+      "call_id": "f4b76665-dc41-4dbd-a4c6-3e5b681cdda1",
+      "chunk_id": "0_aug",
+      "duration": 1.362125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/ef426a02-a854-4996-bd39-406cb1c43ef0_raw.wav",
+      "text": "prime éco.",
+      "speaker": "client",
+      "call_id": "b889a04b-009a-4b27-bd4f-917a378dc8b9",
+      "chunk_id": "0_raw",
+      "duration": 0.981625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/54c5662b-a8bf-4b62-9365-779bfe14b3a8_raw.wav",
+      "text": "Électrique 208",
+      "speaker": "client",
+      "call_id": "b1c53670-aaac-4a95-bcfe-124ad717eeda",
+      "chunk_id": "0_raw",
+      "duration": 1.956875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/b7e2015a-3eb6-478c-9185-b7e09002f7d4_raw.wav",
+      "text": "révision rapide",
+      "speaker": "client",
+      "call_id": "f16df35a-ebec-4dec-a1af-0ea21fd3f0b1",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/b7e2015a-3eb6-478c-9185-b7e09002f7d4_aug.wav",
+      "text": "révision rapide",
+      "speaker": "client",
+      "call_id": "f16df35a-ebec-4dec-a1af-0ea21fd3f0b1",
+      "chunk_id": "0_aug",
+      "duration": 0.73825,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/0aa42e11-076d-4aa1-a78a-d5dc82bdefb6_raw.wav",
+      "text": "Carnet d'entretien",
+      "speaker": "client",
+      "call_id": "9309ec82-c072-4b37-a462-1292616b4007",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/66f97b3c-0543-44ab-b5ac-27d347badd9d_raw.wav",
+      "text": "Turbo frisson",
+      "speaker": "client",
+      "call_id": "c16e33a8-bdfe-4af6-bb13-74d6968b1493",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/66f97b3c-0543-44ab-b5ac-27d347badd9d_aug.wav",
+      "text": "Turbo frisson",
+      "speaker": "client",
+      "call_id": "c16e33a8-bdfe-4af6-bb13-74d6968b1493",
+      "chunk_id": "0_aug",
+      "duration": 0.72325,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/dd7345d7-8bfd-4899-b52a-e79139366d15_raw.wav",
+      "text": "Revisite électrique",
+      "speaker": "client",
+      "call_id": "8bcc2f8f-f2fe-4ac4-94e7-5c9b660c47f3",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/d40c3bcd-5cfd-4e09-8429-11dccc5eb929_raw.wav",
+      "text": "TurboCabriolet",
+      "speaker": "client",
+      "call_id": "b2717fd5-4cca-4680-ba07-66ff661e18f5",
+      "chunk_id": "0_raw",
+      "duration": 0.88875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/93703d74-42b6-4311-b31b-dd3e6617568b_raw.wav",
+      "text": "Rendez-vous Entretien",
+      "speaker": "client",
+      "call_id": "d50b7517-f807-42f0-aedd-0dc3c37f3540",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/93703d74-42b6-4311-b31b-dd3e6617568b_aug.wav",
+      "text": "Rendez-vous Entretien",
+      "speaker": "client",
+      "call_id": "d50b7517-f807-42f0-aedd-0dc3c37f3540",
+      "chunk_id": "0_aug",
+      "duration": 0.705,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/bfce2895-ae6f-4252-8d7e-274e72289ba8_raw.wav",
+      "text": "homologation.",
+      "speaker": "client",
+      "call_id": "e538f825-0c17-4b88-8650-ea182c9a1bdc",
+      "chunk_id": "0_raw",
+      "duration": 0.935125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/bfce2895-ae6f-4252-8d7e-274e72289ba8_aug.wav",
+      "text": "homologation.",
+      "speaker": "client",
+      "call_id": "e538f825-0c17-4b88-8650-ea182c9a1bdc",
+      "chunk_id": "0_aug",
+      "duration": 0.618375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/2e085792-fe8c-4226-b69a-a76877f52634_raw.wav",
+      "text": "Révision完了",
+      "speaker": "client",
+      "call_id": "90252b4f-224d-4edb-81e3-d727b059f54e",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/02f84971-8e95-4221-9c19-0518a4ccf1f8_raw.wav",
+      "text": "vidange immédiate",
+      "speaker": "client",
+      "call_id": "0a0b802d-2360-458d-87eb-a8bf2b1875f5",
+      "chunk_id": "0_raw",
+      "duration": 0.6565,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/02f84971-8e95-4221-9c19-0518a4ccf1f8_aug.wav",
+      "text": "vidange immédiate",
+      "speaker": "client",
+      "call_id": "0a0b802d-2360-458d-87eb-a8bf2b1875f5",
+      "chunk_id": "0_aug",
+      "duration": 0.4375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/34eaf478-06f2-4180-bff3-5bbde6edb08a_raw.wav",
+      "text": "révision Twingo 3.",
+      "speaker": "client",
+      "call_id": "c640aa3e-53a5-4fdc-a4ac-351e2c6de22a",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/34eaf478-06f2-4180-bff3-5bbde6edb08a_aug.wav",
+      "text": "révision Twingo 3.",
+      "speaker": "client",
+      "call_id": "c640aa3e-53a5-4fdc-a4ac-351e2c6de22a",
+      "chunk_id": "0_aug",
+      "duration": 1.156125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/88cce244-b020-453e-bc62-e9dd8b6c3491_raw.wav",
+      "text": "Révision Expert",
+      "speaker": "client",
+      "call_id": "a76afca5-7fbb-4cef-9aa2-6bb76003810b",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/88cce244-b020-453e-bc62-e9dd8b6c3491_aug.wav",
+      "text": "Révision Expert",
+      "speaker": "client",
+      "call_id": "a76afca5-7fbb-4cef-9aa2-6bb76003810b",
+      "chunk_id": "0_aug",
+      "duration": 0.74125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6f6a05e0-88b8-40fc-98ab-7182c3e7cd4a_raw.wav",
+      "text": "Révision annuelle",
+      "speaker": "client",
+      "call_id": "2b85d8e6-ae6d-4517-be55-52bc55194bb6",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6f6a05e0-88b8-40fc-98ab-7182c3e7cd4a_aug.wav",
+      "text": "Révision annuelle",
+      "speaker": "client",
+      "call_id": "2b85d8e6-ae6d-4517-be55-52bc55194bb6",
+      "chunk_id": "0_aug",
+      "duration": 1.02575,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/71a83aca-9cec-4b3b-a122-0d27954cdce8_raw.wav",
+      "text": "Renault Mégane hybride",
+      "speaker": "client",
+      "call_id": "0eb70514-9fd8-4e62-ba92-2efe63113e2a",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/71a83aca-9cec-4b3b-a122-0d27954cdce8_aug.wav",
+      "text": "Renault Mégane hybride",
+      "speaker": "client",
+      "call_id": "0eb70514-9fd8-4e62-ba92-2efe63113e2a",
+      "chunk_id": "0_aug",
+      "duration": 1.15325,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/3c91e9e1-e625-47c0-a8be-81d45cc2247f_raw.wav",
+      "text": "Immatriculation express",
+      "speaker": "client",
+      "call_id": "68402163-fc78-43aa-a83f-77cb45b2ae4b",
+      "chunk_id": "0_raw",
+      "duration": 2.189,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/a444bf55-94f8-48f9-872d-48e35fc53bc2_raw.wav",
+      "text": "Révision Kangoo essence",
+      "speaker": "client",
+      "call_id": "87e61e2b-2198-4a98-b102-e92a8f468b60",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/a444bf55-94f8-48f9-872d-48e35fc53bc2_aug.wav",
+      "text": "Révision Kangoo essence",
+      "speaker": "client",
+      "call_id": "87e61e2b-2198-4a98-b102-e92a8f468b60",
+      "chunk_id": "0_aug",
+      "duration": 0.946875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/105803a1-e5f5-4ec8-a081-75ca180fb13f_raw.wav",
+      "text": "Révision Express",
+      "speaker": "client",
+      "call_id": "a6323e0a-a582-4138-9882-6566b33eeb59",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/105803a1-e5f5-4ec8-a081-75ca180fb13f_aug.wav",
+      "text": "Révision Express",
+      "speaker": "client",
+      "call_id": "a6323e0a-a582-4138-9882-6566b33eeb59",
+      "chunk_id": "0_aug",
+      "duration": 0.905625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/ad0a2ac8-db2b-446b-8b31-38e8d90af0d5_raw.wav",
+      "text": "Jantes alu",
+      "speaker": "client",
+      "call_id": "7878a69f-2584-409e-b726-1b2493ec2df2",
+      "chunk_id": "0_raw",
+      "duration": 0.981625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/ad0a2ac8-db2b-446b-8b31-38e8d90af0d5_aug.wav",
+      "text": "Jantes alu",
+      "speaker": "client",
+      "call_id": "7878a69f-2584-409e-b726-1b2493ec2df2",
+      "chunk_id": "0_aug",
+      "duration": 0.69275,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c494e0ea-ded4-4c9a-80da-8e5f05612f47_raw.wav",
+      "text": "Révision Peugeot 308",
+      "speaker": "client",
+      "call_id": "adfcda43-2c15-4243-b5b5-14bb20e23d29",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c494e0ea-ded4-4c9a-80da-8e5f05612f47_aug.wav",
+      "text": "Révision Peugeot 308",
+      "speaker": "client",
+      "call_id": "adfcda43-2c15-4243-b5b5-14bb20e23d29",
+      "chunk_id": "0_aug",
+      "duration": 1.282,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/4f2497a1-1b6b-4e96-a458-45a894b11fa4_raw.wav",
+      "text": "Kilométrage exact",
+      "speaker": "client",
+      "call_id": "8f97ffce-9f77-4914-b54b-04efbe94f851",
+      "chunk_id": "0_raw",
+      "duration": 2.281875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/4f2497a1-1b6b-4e96-a458-45a894b11fa4_aug.wav",
+      "text": "Kilométrage exact",
+      "speaker": "client",
+      "call_id": "8f97ffce-9f77-4914-b54b-04efbe94f851",
+      "chunk_id": "0_aug",
+      "duration": 1.561875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/a5b0dd46-807f-4e15-a4bf-a8302b9f51f2_raw.wav",
+      "text": "Turbo révision.",
+      "speaker": "client",
+      "call_id": "1d18a2e2-c6c6-4271-93d2-73bf052641c1",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/5da2cc67-0ce3-4740-a631-d9bd4022d4d2_raw.wav",
+      "text": "Turbo Casse-Cou",
+      "speaker": "client",
+      "call_id": "447ec7e1-340b-4ade-8d92-3f99cc5d89e2",
+      "chunk_id": "0_raw",
+      "duration": 0.795875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/5da2cc67-0ce3-4740-a631-d9bd4022d4d2_aug.wav",
+      "text": "Turbo Casse-Cou",
+      "speaker": "client",
+      "call_id": "447ec7e1-340b-4ade-8d92-3f99cc5d89e2",
+      "chunk_id": "0_aug",
+      "duration": 0.537375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/d32d4f7b-c933-4f43-b050-5a4be0c4a5de_raw.wav",
+      "text": "Carte grise",
+      "speaker": "client",
+      "call_id": "4efaf3c2-8cd8-41e6-bafa-46f5fab3534b",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/0ea0996c-190a-4816-960a-32f4ffa709ff_raw.wav",
+      "text": "Carte Grise",
+      "speaker": "client",
+      "call_id": "65e8efca-32a4-4ef2-9076-8fdaed6e1acc",
+      "chunk_id": "0_raw",
+      "duration": 1.399625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/0ea0996c-190a-4816-960a-32f4ffa709ff_aug.wav",
+      "text": "Carte Grise",
+      "speaker": "client",
+      "call_id": "65e8efca-32a4-4ef2-9076-8fdaed6e1acc",
+      "chunk_id": "0_aug",
+      "duration": 1.1355,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/ced64a25-cf79-42bc-b34d-c171658aec4d_raw.wav",
+      "text": "révision turbo",
+      "speaker": "client",
+      "call_id": "c5bcb608-7019-4c07-898b-42dd5786b730",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/e96ca27c-b613-47f4-b7f5-3cf798fe264f_raw.wav",
+      "text": "Tarif révision.",
+      "speaker": "client",
+      "call_id": "45badbf7-4b1d-4c96-a6c6-313f1121e3a4",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/e96ca27c-b613-47f4-b7f5-3cf798fe264f_aug.wav",
+      "text": "Tarif révision.",
+      "speaker": "client",
+      "call_id": "45badbf7-4b1d-4c96-a6c6-313f1121e3a4",
+      "chunk_id": "0_aug",
+      "duration": 0.738,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/15d0c5e7-5d49-4ee0-ba51-e91036a9d03f_raw.wav",
+      "text": "rendez-vous pare-brise",
+      "speaker": "client",
+      "call_id": "ae4c1bb0-4cb9-4415-886c-ba597f92ed10",
+      "chunk_id": "0_raw",
+      "duration": 1.0745,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/15d0c5e7-5d49-4ee0-ba51-e91036a9d03f_aug.wav",
+      "text": "rendez-vous pare-brise",
+      "speaker": "client",
+      "call_id": "ae4c1bb0-4cb9-4415-886c-ba597f92ed10",
+      "chunk_id": "0_aug",
+      "duration": 0.77075,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/31f55012-53d0-4638-a5c0-adafbf363455_raw.wav",
+      "text": "révision Cinquecento",
+      "speaker": "client",
+      "call_id": "e4971d86-55ea-4008-bf91-fd3cef59259f",
+      "chunk_id": "0_raw",
+      "duration": 1.771125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/31f55012-53d0-4638-a5c0-adafbf363455_aug.wav",
+      "text": "révision Cinquecento",
+      "speaker": "client",
+      "call_id": "e4971d86-55ea-4008-bf91-fd3cef59259f",
+      "chunk_id": "0_aug",
+      "duration": 1.221625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/68cca9cf-8f86-410a-9dea-402345f2b23f_raw.wav",
+      "text": "Rétroviseur réglable",
+      "speaker": "client",
+      "call_id": "57cccf47-673b-4618-bda7-17a5b301b3c7",
+      "chunk_id": "0_raw",
+      "duration": 1.864,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/e7c461c9-cf60-496f-a69f-358b3075abab_raw.wav",
+      "text": "Véhicule d'occasion",
+      "speaker": "client",
+      "call_id": "89054869-d542-45bb-bca2-4ace284244ee",
+      "chunk_id": "0_raw",
+      "duration": 1.399625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/d4a9cb47-52ce-459e-8f77-2d55b5498a11_raw.wav",
+      "text": "Révision hybride",
+      "speaker": "client",
+      "call_id": "24f57b76-0874-40ef-a82b-251642e5ca44",
+      "chunk_id": "0_raw",
+      "duration": 1.864,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/d348088a-5b53-4940-bffb-8f615aa43bde_raw.wav",
+      "text": "Révision Peugeot",
+      "speaker": "client",
+      "call_id": "bae69526-42e9-48e6-be01-0d960efac8d8",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/fadffa13-e404-4163-9cde-c5ae71dbd34c_raw.wav",
+      "text": "vignettes Crit'Air",
+      "speaker": "client",
+      "call_id": "d449a159-d6e2-418c-8403-8a3b57b725b6",
+      "chunk_id": "0_raw",
+      "duration": 1.4925,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/fadffa13-e404-4163-9cde-c5ae71dbd34c_aug.wav",
+      "text": "vignettes Crit'Air",
+      "speaker": "client",
+      "call_id": "d449a159-d6e2-418c-8403-8a3b57b725b6",
+      "chunk_id": "0_aug",
+      "duration": 0.962125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6f49b87a-8a00-4561-bf57-1fdb056b2932_raw.wav",
+      "text": "rendez-vous vidange",
+      "speaker": "client",
+      "call_id": "2571300c-1aaf-4f05-9f0a-304cf2f1b6a1",
+      "chunk_id": "0_raw",
+      "duration": 1.120875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6f49b87a-8a00-4561-bf57-1fdb056b2932_aug.wav",
+      "text": "rendez-vous vidange",
+      "speaker": "client",
+      "call_id": "2571300c-1aaf-4f05-9f0a-304cf2f1b6a1",
+      "chunk_id": "0_aug",
+      "duration": 0.96525,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/77dc685c-d2ea-4128-aa01-0f11f2437e73_raw.wav",
+      "text": "Offre reprise veículos",
+      "speaker": "client",
+      "call_id": "c5fb8bc6-be88-47d3-9b8f-55d16615d823",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/65303684-268b-4219-848a-0a32426ced14_raw.wav",
+      "text": "RV diagnostic multimarque",
+      "speaker": "client",
+      "call_id": "b7fda6ed-c112-4b32-bf77-25ca405d7054",
+      "chunk_id": "0_raw",
+      "duration": 1.864,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/287ae791-9353-4c33-9d6f-e0ecddc05121_raw.wav",
+      "text": "Expertise diag' électrique",
+      "speaker": "client",
+      "call_id": "bb74c4c5-0364-4c42-825f-fce370b27a03",
+      "chunk_id": "0_raw",
+      "duration": 1.8175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/287ae791-9353-4c33-9d6f-e0ecddc05121_aug.wav",
+      "text": "Expertise diag' électrique",
+      "speaker": "client",
+      "call_id": "bb74c4c5-0364-4c42-825f-fce370b27a03",
+      "chunk_id": "0_aug",
+      "duration": 1.358625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/58cdb628-9778-45c2-a177-1f0c75113198_raw.wav",
+      "text": "Livraison Clio neuve.",
+      "speaker": "client",
+      "call_id": "fdf26ebb-3ad1-4a80-aa07-f7f46dd67405",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/58cdb628-9778-45c2-a177-1f0c75113198_aug.wav",
+      "text": "Livraison Clio neuve.",
+      "speaker": "client",
+      "call_id": "fdf26ebb-3ad1-4a80-aa07-f7f46dd67405",
+      "chunk_id": "0_aug",
+      "duration": 0.80325,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/8f4cbed4-5afc-4d1b-89a0-1a34166e13d3_raw.wav",
+      "text": "Livraison express",
+      "speaker": "client",
+      "call_id": "a523f3bb-7259-48c7-8575-5aa9a59f7424",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/52baae1e-bbe7-4f20-81f4-a63f3d347fb9_raw.wav",
+      "text": "Rendez-vous expertise",
+      "speaker": "client",
+      "call_id": "681ebc0e-7862-4b21-8b4f-aa8d0191ea6d",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/52baae1e-bbe7-4f20-81f4-a63f3d347fb9_aug.wav",
+      "text": "Rendez-vous expertise",
+      "speaker": "client",
+      "call_id": "681ebc0e-7862-4b21-8b4f-aa8d0191ea6d",
+      "chunk_id": "0_aug",
+      "duration": 1.10075,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/f6060b00-8189-476f-a939-038035911e2a_raw.wav",
+      "text": "Rétroviseur électrique",
+      "speaker": "client",
+      "call_id": "c2cb0cbe-6136-46d3-af3e-8c991d5b6b99",
+      "chunk_id": "0_raw",
+      "duration": 1.213875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/dcafd1d8-3c20-4d03-9c08-3d649cd34454_raw.wav",
+      "text": "Picasso d'occasion",
+      "speaker": "client",
+      "call_id": "4ab86429-a92e-436f-b48c-4298cf68d154",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/dcafd1d8-3c20-4d03-9c08-3d649cd34454_aug.wav",
+      "text": "Picasso d'occasion",
+      "speaker": "client",
+      "call_id": "4ab86429-a92e-436f-b48c-4298cf68d154",
+      "chunk_id": "0_aug",
+      "duration": 1.250375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/cf22af58-8332-4165-89ec-61b0fca8886e_raw.wav",
+      "text": "Carte grise",
+      "speaker": "client",
+      "call_id": "594884f3-7f5f-40af-b69b-8e1dae9c1a81",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/cf22af58-8332-4165-89ec-61b0fca8886e_aug.wav",
+      "text": "Carte grise",
+      "speaker": "client",
+      "call_id": "594884f3-7f5f-40af-b69b-8e1dae9c1a81",
+      "chunk_id": "0_aug",
+      "duration": 1.0265,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/82dc5794-bef9-4ca6-b798-5c3573c78168_raw.wav",
+      "text": "Rétroviseur gauche arabica",
+      "speaker": "client",
+      "call_id": "40a804f0-52d0-4754-989a-1baa09e7938e",
+      "chunk_id": "0_raw",
+      "duration": 1.864,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/82dc5794-bef9-4ca6-b798-5c3573c78168_aug.wav",
+      "text": "Rétroviseur gauche arabica",
+      "speaker": "client",
+      "call_id": "40a804f0-52d0-4754-989a-1baa09e7938e",
+      "chunk_id": "0_aug",
+      "duration": 1.521125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/59c15f89-fa3e-46d5-84d2-98ad5756ff08_raw.wav",
+      "text": "révision annuelle",
+      "speaker": "client",
+      "call_id": "f923cdc3-6dfc-404b-aa41-d0c0440c66d1",
+      "chunk_id": "0_raw",
+      "duration": 1.63175,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6ab2d499-4444-48a0-b0ac-7fbf3362bfe0_raw.wav",
+      "text": "Révision rapide",
+      "speaker": "client",
+      "call_id": "5edb6bf8-8e99-4ba1-ae85-6840922a6135",
+      "chunk_id": "0_raw",
+      "duration": 1.028,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/6ab2d499-4444-48a0-b0ac-7fbf3362bfe0_aug.wav",
+      "text": "Révision rapide",
+      "speaker": "client",
+      "call_id": "5edb6bf8-8e99-4ba1-ae85-6840922a6135",
+      "chunk_id": "0_aug",
+      "duration": 0.670625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/2702afc2-a2b7-45c1-9644-9d730da612bf_raw.wav",
+      "text": "Vérification VIN",
+      "speaker": "client",
+      "call_id": "24eb8fb8-3fdf-4c91-875a-44882af2b1ca",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/2702afc2-a2b7-45c1-9644-9d730da612bf_aug.wav",
+      "text": "Vérification VIN",
+      "speaker": "client",
+      "call_id": "24eb8fb8-3fdf-4c91-875a-44882af2b1ca",
+      "chunk_id": "0_aug",
+      "duration": 1.14925,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/f4975378-8d50-4bc8-b8cd-33b235c77d35_raw.wav",
+      "text": "Expertise hybride.",
+      "speaker": "client",
+      "call_id": "e49e5a3e-8bbc-4999-b636-2e95556109ed",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/f4975378-8d50-4bc8-b8cd-33b235c77d35_aug.wav",
+      "text": "Expertise hybride.",
+      "speaker": "client",
+      "call_id": "e49e5a3e-8bbc-4999-b636-2e95556109ed",
+      "chunk_id": "0_aug",
+      "duration": 0.89275,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/df17bf2d-1402-4661-aa9a-9e910e76b045_raw.wav",
+      "text": "Révision Twingo 2020",
+      "speaker": "client",
+      "call_id": "7b43d2b9-21f8-491b-bf7a-3f4b3c4e502d",
+      "chunk_id": "0_raw",
+      "duration": 3.16425,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/df17bf2d-1402-4661-aa9a-9e910e76b045_aug.wav",
+      "text": "Révision Twingo 2020",
+      "speaker": "client",
+      "call_id": "7b43d2b9-21f8-491b-bf7a-3f4b3c4e502d",
+      "chunk_id": "0_aug",
+      "duration": 2.231375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/8428d98d-025c-49d8-8e5e-5564de2a0bf8_raw.wav",
+      "text": "Prise-de-rendez-vous-entretien",
+      "speaker": "client",
+      "call_id": "48ea030a-a007-42d7-ab21-60f85de56ea6",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c4fc7323-02ac-4b39-b3dc-b2523d1bff86_raw.wav",
+      "text": "Expertise Peugeot",
+      "speaker": "client",
+      "call_id": "646bde44-6121-495d-8f59-1f8a5e96a0b9",
+      "chunk_id": "0_raw",
+      "duration": 1.585375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c4fc7323-02ac-4b39-b3dc-b2523d1bff86_aug.wav",
+      "text": "Expertise Peugeot",
+      "speaker": "client",
+      "call_id": "646bde44-6121-495d-8f59-1f8a5e96a0b9",
+      "chunk_id": "0_aug",
+      "duration": 1.15925,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/10c6ac89-e968-4680-b1d0-0fe0e6407bdb_raw.wav",
+      "text": "révision Kadjar",
+      "speaker": "client",
+      "call_id": "06a7c9aa-d0fe-4ef9-9236-930e10981440",
+      "chunk_id": "0_raw",
+      "duration": 1.67825,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/53872de1-62a5-467f-a613-cacc9869acde_raw.wav",
+      "text": "Carte grise",
+      "speaker": "client",
+      "call_id": "af268c25-5ee4-41e9-b04e-025530064129",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/51e3afb8-e6f8-4fbc-9b0b-962315259edd_raw.wav",
+      "text": "révision express",
+      "speaker": "client",
+      "call_id": "19a4effc-3fac-40e5-baa5-40ad23c01775",
+      "chunk_id": "0_raw",
+      "duration": 2.096125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/78b43f16-9cce-4126-89cb-e5b187fc91d7_raw.wav",
+      "text": "rendez-vous révision",
+      "speaker": "client",
+      "call_id": "f1fd915d-dc40-4517-aa6c-52a9df4f4cbf",
+      "chunk_id": "0_raw",
+      "duration": 1.910375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/78b43f16-9cce-4126-89cb-e5b187fc91d7_aug.wav",
+      "text": "rendez-vous révision",
+      "speaker": "client",
+      "call_id": "f1fd915d-dc40-4517-aa6c-52a9df4f4cbf",
+      "chunk_id": "0_aug",
+      "duration": 1.518875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/651bc50b-6e5b-4357-bbcf-394ef2e4dfce_raw.wav",
+      "text": "Renault Captur hybrid",
+      "speaker": "client",
+      "call_id": "742a9109-8cc6-4299-a3a6-8659f03f2deb",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/651bc50b-6e5b-4357-bbcf-394ef2e4dfce_aug.wav",
+      "text": "Renault Captur hybrid",
+      "speaker": "client",
+      "call_id": "742a9109-8cc6-4299-a3a6-8659f03f2deb",
+      "chunk_id": "0_aug",
+      "duration": 0.9085,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c09568c7-c785-4d59-a5a4-452fa4330f34_raw.wav",
+      "text": "Turbo Twingo fiesta",
+      "speaker": "client",
+      "call_id": "266a4e05-7534-4bb1-9a37-a38b9b34681a",
+      "chunk_id": "0_raw",
+      "duration": 2.00325,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/4e44ac56-7f99-4b2d-ac84-0ec19c694bdd_raw.wav",
+      "text": "carnet d'entretien",
+      "speaker": "client",
+      "call_id": "5a756ac7-550a-4630-8e48-d8ca117a5a33",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/5cd3ecc4-5f4d-47f2-8a0c-9feb73e13b93_raw.wav",
+      "text": "Turbo Paname",
+      "speaker": "client",
+      "call_id": "3db28859-1d2e-4fbb-af02-b5c2ceecd390",
+      "chunk_id": "0_raw",
+      "duration": 1.26025,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/5cd3ecc4-5f4d-47f2-8a0c-9feb73e13b93_aug.wav",
+      "text": "Turbo Paname",
+      "speaker": "client",
+      "call_id": "3db28859-1d2e-4fbb-af02-b5c2ceecd390",
+      "chunk_id": "0_aug",
+      "duration": 1.143625,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/45978778-eefd-4a92-ac01-85eb2b710bca_raw.wav",
+      "text": "Révision annuelle",
+      "speaker": "client",
+      "call_id": "b18eb67d-3467-4f8c-8bf1-8ba1d60960f3",
+      "chunk_id": "0_raw",
+      "duration": 1.864,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/45978778-eefd-4a92-ac01-85eb2b710bca_aug.wav",
+      "text": "Révision annuelle",
+      "speaker": "client",
+      "call_id": "b18eb67d-3467-4f8c-8bf1-8ba1d60960f3",
+      "chunk_id": "0_aug",
+      "duration": 1.18875,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/c8eac67f-6d6f-4135-b252-fc04498404e8_raw.wav",
+      "text": "révision annuelle",
+      "speaker": "client",
+      "call_id": "bf3bfe67-83a7-41f9-98dd-4fafcfe3f09e",
+      "chunk_id": "0_raw",
+      "duration": 1.167375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/1cadf0ac-76f3-4779-a7ca-ff1b5839e4b6_raw.wav",
+      "text": "révision turbo",
+      "speaker": "client",
+      "call_id": "da68b0fc-56aa-49d5-94e1-09d2cf5aa160",
+      "chunk_id": "0_raw",
+      "duration": 1.30675,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/39452c9f-54a2-46d7-bec6-083b85e03794_raw.wav",
+      "text": "Reprise Turbo",
+      "speaker": "client",
+      "call_id": "9d69be49-fb51-4ef9-bc34-926c3e7cf96f",
+      "chunk_id": "0_raw",
+      "duration": 1.353125,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/e57a23b1-c7bb-4267-9cb1-db98d32440fe_raw.wav",
+      "text": "révision complète.",
+      "speaker": "client",
+      "call_id": "7a04815a-c95a-438d-afb0-90c9f019791c",
+      "chunk_id": "0_raw",
+      "duration": 1.446,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/e57a23b1-c7bb-4267-9cb1-db98d32440fe_aug.wav",
+      "text": "révision complète.",
+      "speaker": "client",
+      "call_id": "7a04815a-c95a-438d-afb0-90c9f019791c",
+      "chunk_id": "0_aug",
+      "duration": 1.078,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/a195f27b-0571-4dd7-84a7-f6db171a8026_raw.wav",
+      "text": "révision annuelle",
+      "speaker": "client",
+      "call_id": "36a0f61f-f42a-4110-bc30-9509abb33918",
+      "chunk_id": "0_raw",
+      "duration": 1.910375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/663389ac-2a57-4c19-877a-adb545d0439f_raw.wav",
+      "text": "Révision annuelle",
+      "speaker": "client",
+      "call_id": "7bd98d3e-bc11-46fa-8985-bb01b370703a",
+      "chunk_id": "0_raw",
+      "duration": 1.910375,
+      "category": "Mots-clés et Phrases Courtes"
+    },
+    {
+      "audio_path": "Audio/62949007-02a5-4320-99fd-ee269920fb2c_raw.wav",
+      "text": "Carnet d'entretien complet",
+      "speaker": "client",
+      "call_id": "99e225bc-51a9-44c4-8fcb-12a7f9bc1cf7",
+      "chunk_id": "0_raw",
+      "duration": 1.724625,
+      "category": "Mots-clés et Phrases Courtes"
+    }
+  ],
+  "total_duration": 1645.2758749999991,
+  "total_duration_hours": 0.45702107638888867
+}
