@@ -14,7 +14,7 @@ This repository hosts the end-to-end benchmark we ran on the **French Automobile
 - **Dataset**: 437 French automotive utterances (raw + augmented). `Audio/`, `dataset.json`, and `result.csv` are perfectly aligned.
 - **Models Evaluated (9)**: Deepgram Nova 3, ElevenLabs, Fal, Gladia, Google latest_long, Groq Whisper Large V3, Groq Whisper Large V3 Turbo, **Latice.AI**, OpenAI GPT-4o Transcribe.
 - **Metrics**: Word Error Rate (WER), perfect vs failed utterances, error-type distributions, qualitative examples.
-- **Scripts**: `launch_test.py` for bulk transcription, `wer.py` for normalized WER, `english_analysis_generator/` for analysis + report (Word/PDF).
+- **Scripts**: `launch_test.py` for bulk transcription, `wer.py` for normalized WER
 
 ---
 
